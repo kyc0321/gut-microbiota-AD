@@ -1,0 +1,8 @@
+# Cached per-taxon GWAS data and large intermediate outputs are not source
+# code and are excluded from the repository. All are publicly re-derivable
+# from the OpenGWAS accessions listed in README.md.
+data/
+results/
+figures/
+*.jwt
+.Renviron
