@@ -8,7 +8,8 @@ steps <- c(
   "01_instruments_and_mr.R",
   "02_sensitivity_diagnostics.R",
   "03_fdr_correction.R",
-  "04_reverse_mr_lead_signal.R"
+  "04_reverse_mr_lead_signal.R",
+  "05_mvmr_exploratory.R"
 )
 for (s in steps) {
   cat("\n############", s, "############\n")
