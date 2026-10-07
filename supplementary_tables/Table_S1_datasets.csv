@@ -1,0 +1,215 @@
+Role,Dataset,Identifier / source,Sample size,Ancestry
+Exposure (primary and sensitivity instruments),"Periodontitis, diagnosis-based (Salminen et al., 2025; FinnGen release 11)",https://storage.googleapis.com/fg-publication-green-public/F_2023_026_20250625/summary_statistics_periodontitis.zip,"38,157 cases / approximately 250,000 with a clinical oral examination record (473,681 genotyped in FinnGen release 11)",European (Finnish)
+Outcome (primary); exposure in reverse MR,"Alzheimer's disease (Bellenguez et al., 2022; EADB)",ebi-a-GCST90027158,"39,106 cases / 487,511 total",European
+Outcome (sensitivity),"Alzheimer's disease (Kunkle et al., 2019; IGAP)",ieu-b-2,"21,982 cases / 41,944 controls",European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Hungatella id.11306) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017017,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG004 id.11362) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017055,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Faecalibacterium id.2057) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017007,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Oxalobacteraceae id.2966) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016943,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Olsenella id.822) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017035,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Family XIII id.1957) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016939,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Fusicatenibacter id.11305) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017011,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Lactobacillaceae id.1836) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016941,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Catenibacterium id.2153) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016977,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium rectale group id.14374) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017003,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminiclostridium6 id.11356) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017050,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Enterobacteriaceae id.3469) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016936,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium oxidoreducens group id.11339) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017002,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Dialister id.2183) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016988,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Butyricimonas id.945) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016974,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcus1 id.11373) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017062,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Victivallales id.2254) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017109,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Peptococcaceae id.2024) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016945,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium brachy group id.11296) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016996,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium hallii group id.11338) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017000,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae FCS020 group id.11314) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017021,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG011 id.11368) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017059,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Oscillospira id.2064) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017037,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminiclostridium9 id.11357) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017051,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Haemophilus id.3698) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017013,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Pasteurellaceae id.3689) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016944,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lactobacillus id.1837) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017030,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Senegalimassilia id.11160) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017068,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Butyricicoccus id.2055) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016973,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown family id.1000006161) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016955,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Bilophila id.3170) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016971,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Defluviitaleaceae id.1924) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016934,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Veillonella id.2198) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017088,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Prevotella9 id.11183) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017045,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Clostridiales id.1863) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017095,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcus gauvreauii group id.11342) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017064,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Enterobacteriales id.3468) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017098,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Methanobacteriales id.120) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017102,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Anaerostipes id.1991) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016966,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Cyanobacteria id.1500) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017112,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Akkermansia id.4037) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016961,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium nodatum group id.11297) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017001,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown family id.1000001214) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016953,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Intestinibacter id.11345) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017018,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Desulfovibrionales id.3156) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017097,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium xylanophilum group id.14375) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017006,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Methanobrevibacter id.123) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017033,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnoclostridium id.11308) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017020,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Family XI id.1936) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016938,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Rikenellaceae id.967) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016950,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Pasteurellales id.3688) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017105,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium eligens group id.14372) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016998,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Coprococcus3 id.11303) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016985,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Romboutsia id.11347) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017047,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Erysipelatoclostridium id.11381) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016993,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Family XIII AD3011 group id.11293) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017008,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Sellimonas id.14369) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017067,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Selenomonadales id.2165) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017107,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Parasutterella id.2892) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017041,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Parabacteroides id.954) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017039,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcus torques group id.14377) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017066,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Dorea id.1997) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016989,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Allisonella id.2174) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016963,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eggerthella id.819) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016990,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Coprobacter id.949) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016982,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Lactobacillales id.1800) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017101,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcus2 id.11374) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017063,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Gastranaerophilales id.1591) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017100,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Actinobacteria id.400) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017110,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Peptococcus id.2037) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017042,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG009 id.11366) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017057,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Subdoligranulum id.2070) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017071,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Erysipelotrichales id.2148) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017099,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium ventriosum group id.11341) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017005,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Prevotella7 id.11182) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017044,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae NK4A136 group id.11319) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017024,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Bacteroides id.918) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016968,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order NB1n id.3953) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017104,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Rhodospirillaceae id.2717) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016949,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Terrisporobacter id.11348) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017073,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG014 id.11371) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017061,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Porphyromonadaceae id.943) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016947,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1000006162) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017080,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Bifidobacteriales id.432) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017093,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Bacillales id.1674) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017091,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae NK4A214 group id.11358) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017052,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcus gnavus group id.14376) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017065,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Christensenellaceae R 7group id.11283) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016978,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Verrucomicrobiaceae id.4036) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016957,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.2071) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017084,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Victivallaceae id.2255) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016958,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium coprostanoligenes group id.11375) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016997,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG005 id.11363) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017056,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Ruminococcaceae id.2050) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016951,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Paraprevotella id.962) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017040,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Collinsella id.815) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016981,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Streptococcaceae id.1850) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016952,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Erysipelotrichaceae id.2149) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016937,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Streptococcus id.1853) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017070,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG003 id.11361) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017054,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Family XIII UCG001 id.11294) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017009,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Desulfovibrionaceae id.3169) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016935,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Lachnospiraceae id.1987) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016940,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Sutterella id.2896) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017072,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospira id.2004) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017029,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium ruminantium group id.11340) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017004,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminiclostridium5 id.11355) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017049,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Tyzzerella3 id.11335) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017075,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Phascolarctobacterium id.2168) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017043,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.2755) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017085,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae NC2004 group id.11316) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017022,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae UCG008 id.11328) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017027,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Anaerotruncus id.2054) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016967,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Coriobacteriales id.810) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017096,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Gordonibacter id.821) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017012,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae UCG001 id.11321) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017025,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Rikenellaceae RC9 gut group id.11191) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017046,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown family id.1000005471) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016954,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lactococcus id.1851) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017031,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Desulfovibrio id.3173) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016987,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.2001) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017082,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Defluviitaleaceae UCG011 id.11287) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016986,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Coprococcus2 id.11302) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016984,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Barnesiella id.944) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016969,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Euryarchaeota id.55) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017113,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Verrucomicrobia id.3982) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017118,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae UCG010 id.11330) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017028,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Oxalobacter id.2978) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017038,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Peptostreptococcaceae id.2042) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016946,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Firmicutes id.1672) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017114,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Anaerofilum id.2053) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016965,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Bifidobacterium id.436) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016970,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG013 id.11370) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017060,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Methanobacteriaceae id.121) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016942,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Rhodospirillales id.2667) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017106,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Candidatus Soleaferrea id.11350) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016976,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Slackia id.825) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017069,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Veillonellaceae id.2172) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016956,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Oscillibacter id.2063) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017036,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Escherichia Shigella id.3504) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016995,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Erysipelotrichaceae UCG003 id.11384) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016994,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Prevotellaceae id.960) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016948,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Victivallis id.2256) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017089,1531,Mixed
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Enterorhabdus id.820) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016992,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Mollicutes RF9 id.11579) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017103,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1000001215) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017077,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Holdemania id.2157) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017015,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Bacteroidales id.913) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017092,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Proteobacteria id.2375) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017116,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae ND3007 group id.11317) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017023,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eubacterium fissicatena group id.14373) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016999,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Odoribacter id.952) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017034,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Lachnospiraceae UCG004 id.11324) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017026,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Burkholderiales id.2874) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017094,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Adlercreutzia id.812) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016960,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Coprococcus1 id.11301) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016983,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Marvinbryantia id.2005) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017032,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Howardella id.2000) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017016,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Clostridium sensustricto1 id.1873) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016980,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG010 id.11367) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017058,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Eisenbergiella id.11304) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016991,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Clostridium innocuum group id.14397) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016979,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Intestinimonas id.2062) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017019,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Butyrivibrio id.1993) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016975,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Actinomyces id.423) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016959,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1000005472) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017078,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Roseburia id.2012) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017048,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Holdemanella id.11393) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017014,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Blautia id.1992) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016972,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Bacteroidetes id.905) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017111,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1868) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017081,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Tenericutes id.3919) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017117,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1000005479) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017079,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Ruminococcaceae UCG002 id.11360) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017053,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Flavonifractor id.2059) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017010,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Alloprevotella id.961) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016964,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.959) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017087,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (phylum Lentisphaerae id.2238) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017115,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.2041) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017083,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.1000000073) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017076,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (unknown genus id.826) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017086,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Turicibacter id.2162) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017074,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Verrucomicrobiales id.4030) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017108,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (genus Alistipes id.968) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016962,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (order Actinomycetales id.420) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90017090,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Betaproteobacteria id.2867) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016912,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Melainabacteria id.1589) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016919,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Clostridia id.1859) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016913,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Coriobacteriaceae id.811) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016933,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Negativicutes id.2164) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016922,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Mollicutes id.3920) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016921,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Clostridiaceae1 id.1869) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016931,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Actinobacteria id.419) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016908,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Christensenellaceae id.1866) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016930,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Clostridiales vadin BB60 group id.11286) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016932,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Bacteroidales S24 7group id.11173) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016928,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Erysipelotrichia id.2147) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016916,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Bacteroidaceae id.917) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016927,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Verrucomicrobiae id.4029) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016923,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Alcaligenaceae id.2875) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016926,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Deltaproteobacteria id.3087) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016915,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Actinomycetaceae id.421) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016925,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Bacilli id.1673) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016910,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Alphaproteobacteria id.2379) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016909,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Bifidobacteriaceae id.433) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016929,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Coriobacteriia id.809) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016914,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Gammaproteobacteria id.3303) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016917,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Bacteroidia id.912) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016911,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Lentisphaeria id.2250) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016918,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (family Acidaminococcaceae id.2166) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016924,14306,European
+Candidate mediator (Step 1 outcome),"Gut microbiota abundance (class Methanobacteria id.119) (Kurilshikov et al., 2021; MiBioGen)",ebi-a-GCST90016920,14306,European

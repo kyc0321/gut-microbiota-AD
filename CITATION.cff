@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Periodontitis, gut microbiota and Alzheimer's disease: Mendelian randomization pipeline"
+version: 2.0.0
+date-released: 2026-10-07
+license: MIT
+repository-code: "https://github.com/kyc0321/gut-microbiota-AD"
+authors:
+  - family-names: Chu
+    given-names: Kuan-Yu
+    orcid: "https://orcid.org/0000-0003-0574-4220"

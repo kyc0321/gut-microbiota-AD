@@ -1,0 +1,1039 @@
+SNP,trait,p,source,ad_relevant
+rs2682865,ENSG00000138448,2.99709e-23,OpenGWAS,FALSE
+rs11164935,ENSG00000097046,9.63385e-21,OpenGWAS,FALSE
+rs57655227,ENSG00000152689,1.02141e-20,OpenGWAS,FALSE
+rs6674203,Neutrophil count,4.00037e-11,OpenGWAS,FALSE
+rs6674203,White blood cell count,1.29e-10,OpenGWAS,FALSE
+rs2682865,ENSG00000065548,1.43632e-08,OpenGWAS,FALSE
+rs138590699,CD64 on CD14+ CD16- monocyte,4.92697e-08,OpenGWAS,FALSE
+rs3130277,"Non-cancer illness code, self-reported: malabsorption/coeliac disease",0,OpenGWAS,FALSE
+rs3130277,Non-cancer illness code  self-reported: malabsorption/coeliac disease,1.11253692925645e-308,OpenGWAS,FALSE
+rs3130277,ENSG00000179344,2.77332e-228,OpenGWAS,FALSE
+rs3130277,ENSG00000196735,1.84502e-213,OpenGWAS,FALSE
+rs3130277,ENSG00000224389,4.2658e-187,OpenGWAS,FALSE
+rs3130277,Coeliac disease,2.08449e-173,OpenGWAS,FALSE
+rs3130277,ENSG00000244731,6.38263e-150,OpenGWAS,FALSE
+rs3130277,ENSG00000198502,6.15177e-143,OpenGWAS,FALSE
+rs3130277,Psoriasis,1.88799e-142,OpenGWAS,FALSE
+rs3130277,ENSG00000204525,3.70681e-138,OpenGWAS,FALSE
+rs3130277,Psoriasis,3.54813e-122,OpenGWAS,FALSE
+rs3130277,ENSG00000231852,1.87068e-121,OpenGWAS,FALSE
+rs3130277,Serum total protein level,3.11172e-113,OpenGWAS,FALSE
+rs3130277,Total protein,1.13501e-111,OpenGWAS,FALSE
+rs3130277,Total protein,9.68278e-108,OpenGWAS,FALSE
+rs3130277,Aspartate aminotransferase levels (UKB data field 30650),4.94311e-102,OpenGWAS,FALSE
+rs3130277,Monocyte count,2.54976e-84,OpenGWAS,FALSE
+rs3130277,monocyte cell count,2.54976e-84,OpenGWAS,FALSE
+rs3130277,Aspartate aminotransferase levels,3.46897e-84,OpenGWAS,FALSE
+rs3130277,Aspartate aminotransferase,3.81154e-84,OpenGWAS,FALSE
+rs3130277,"Never eat eggs, dairy, wheat, sugar: Wheat products",4.00037e-82,OpenGWAS,FALSE
+rs3130277,Other diseases of the digestive system (K11_OTHDIG),2.09604e-81,OpenGWAS,FALSE
+rs3130277,ENSG00000223534,5.04313e-70,OpenGWAS,FALSE
+rs3130277,"Non-cancer illness code, self-reported: psoriasis",1.80011e-65,OpenGWAS,FALSE
+rs3130277,Monocyte count (UKB data field 30130),1.50487e-63,OpenGWAS,FALSE
+rs4921213,ENSG00000164332,1.08268e-62,OpenGWAS,FALSE
+rs4921213,Psoriasis,2.89268e-62,OpenGWAS,FALSE
+rs3130277,White blood cell count,1.58016e-61,OpenGWAS,FALSE
+rs3130277,white blood cell count,1.58016e-61,OpenGWAS,FALSE
+rs3130277,Mean reticulocyte volume,1.9002e-61,OpenGWAS,FALSE
+rs3130277,Rheumatoid arthritis,2.57395e-61,OpenGWAS,FALSE
+rs3130277,Rheumatoid Arthritis,8.88996e-56,OpenGWAS,FALSE
+rs3130277,Rheumatoid arthritis,8.9002e-56,OpenGWAS,FALSE
+rs3130277,Rheumatoid arthritis,8.9002e-56,OpenGWAS,FALSE
+rs4921213,Psoriasis,3.05422e-55,OpenGWAS,FALSE
+rs3130277,ENSG00000204338,9.61834e-55,OpenGWAS,FALSE
+rs3130277,Non-cancer illness code  self-reported: psoriasis,1.24251e-54,OpenGWAS,FALSE
+rs3130277,Complement C2 measurement,2.0128e-54,OpenGWAS,FALSE
+rs3130277,Lymphocyte count,2.55976e-54,OpenGWAS,FALSE
+rs3130277,lymphocyte cell count,2.55976e-54,OpenGWAS,FALSE
+rs3130277,Rheumatoid arthritis,1.29987e-53,OpenGWAS,FALSE
+rs3130277,Rheumatoid Arthritis,1.34338e-53,OpenGWAS,FALSE
+rs3130277,White blood cell count,6.59933e-53,OpenGWAS,FALSE
+rs3130277,Monocyte count,1.41286e-52,OpenGWAS,FALSE
+rs3130277,Monocyte count,2.39662e-52,OpenGWAS,FALSE
+rs3130277,Eosinophil counts,5.43e-51,OpenGWAS,FALSE
+rs3130277,eosinophil cell count,5.43e-51,OpenGWAS,FALSE
+rs3130277,ENSG00000229391,5.23842e-50,OpenGWAS,FALSE
+rs3130277,Sitting height,1.10002e-49,OpenGWAS,FALSE
+rs3130277,Reticulocyte count,1.29987e-49,OpenGWAS,FALSE
+rs3130277,Glycated haemoglobin HbA1c levels (UKB data field 30750),2.02908e-49,OpenGWAS,TRUE
+rs3130277,Type 1 diabetes,4.83727e-49,OpenGWAS,TRUE
+rs3130277,Mean spheric corpuscular volume,1.69981e-46,OpenGWAS,FALSE
+rs3130277,Lymphocyte count,9.79941e-45,OpenGWAS,FALSE
+rs3130277,Eosinophil counts,2.99985e-44,OpenGWAS,FALSE
+rs3130277,ENSG00000232629,3.25387e-44,OpenGWAS,FALSE
+rs3130277,Psoriasis vulgaris,1.53285e-42,OpenGWAS,FALSE
+rs3130277,Hemoglobin A1c levels,2.76376e-42,OpenGWAS,FALSE
+rs3130277,Glycated haemoglobin,5.67153e-42,OpenGWAS,FALSE
+rs3130277,Systemic lupus erythematosus,6.14752e-42,OpenGWAS,FALSE
+rs3130277,White blood cell leukocyte count (UKB data field 30000),2.39883e-41,OpenGWAS,FALSE
+rs3130277,Eosinophill count (UKB data field 30150),4.65801e-40,OpenGWAS,FALSE
+rs3130277,Autoimmune diseases,8.47032e-40,OpenGWAS,FALSE
+rs3130277,Reticulocyte fraction of red cells,8.00018e-38,OpenGWAS,FALSE
+rs147494818,Height,7.50067e-37,OpenGWAS,FALSE
+rs3130277,Mean reticulocyte volume,2.60016e-36,OpenGWAS,FALSE
+rs3130277,Membranous nephropathy,1.04304e-35,OpenGWAS,FALSE
+rs147494818,Height,1.16305e-35,OpenGWAS,FALSE
+rs3130277,Dermatitis herpetiformis,2.14783e-35,OpenGWAS,FALSE
+rs3130277,Platelet count,1.16011e-34,OpenGWAS,FALSE
+rs3130277,Lymphocyte count (UKB data field 30120),2.18424e-33,OpenGWAS,FALSE
+rs3130277,White blood cell (leukocyte) count,1.30287e-32,OpenGWAS,FALSE
+rs3130277,Psoriasis,2.49977e-32,OpenGWAS,FALSE
+rs3130277,Glycated haemoglobin,3.04719e-32,OpenGWAS,FALSE
+rs3130277,ENSG00000204536,4.04483e-32,OpenGWAS,FALSE
+rs3130277,White blood cell count,6.43873e-32,OpenGWAS,FALSE
+rs3130277,Whole body fat-free mass,6.70039e-32,OpenGWAS,FALSE
+rs3130277,Papulosquamous disorders,9.28753e-32,OpenGWAS,FALSE
+rs3130277,Sitting height,2.01002e-31,OpenGWAS,FALSE
+rs4921213,Psoriasis,2.29985e-31,OpenGWAS,FALSE
+rs3130277,Basal metabolic rate,4.40048e-31,OpenGWAS,FALSE
+rs4921213,"Non-cancer illness code, self-reported: psoriasis",5.40008e-31,OpenGWAS,FALSE
+rs3130277,Trunk fat-free mass,5.79963e-31,OpenGWAS,FALSE
+rs3130277,Whole body water mass,6.09958e-31,OpenGWAS,FALSE
+rs3130277,Aspartate aminotransferase,8.72971e-31,OpenGWAS,FALSE
+rs3130277,Other bullous disorders,9.37778e-31,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte count,1.50003e-30,OpenGWAS,FALSE
+rs3130277,Trunk predicted mass,2.70023e-30,OpenGWAS,FALSE
+rs3130277,Lung function (FEV1/FVC),6.07016e-30,OpenGWAS,FALSE
+rs3130277,Hemoglobin concentration,6.23017e-30,OpenGWAS,FALSE
+rs3130277,Monocyte count,1.65196e-29,OpenGWAS,FALSE
+rs3130277,Standing height,2.09991e-29,OpenGWAS,FALSE
+rs3130277,Arm fat-free mass (left),4.10015e-29,OpenGWAS,FALSE
+rs3130277,Red blood cell count,4.45041e-29,OpenGWAS,FALSE
+rs3130277,Peak expiratory flow,4.74024e-29,OpenGWAS,FALSE
+rs3130277,Hemoglobin,5.90065e-29,OpenGWAS,FALSE
+rs3130277,Leg predicted mass (left),2.29985e-28,OpenGWAS,FALSE
+rs3130277,Leg fat-free mass (left),4.19952e-28,OpenGWAS,FALSE
+rs147494818,Standing height,4.30031e-28,OpenGWAS,FALSE
+rs3130277,Arm predicted mass (right),7.50067e-28,OpenGWAS,FALSE
+rs3130277,Arm predicted mass (left),1.20005e-27,OpenGWAS,FALSE
+rs3130277,Leg fat-free mass (right),1.69981e-27,OpenGWAS,FALSE
+rs3130277,Hyperthyroidism or thyrotoxicosis,2.09991e-27,OpenGWAS,FALSE
+rs3130277,Trypsin-3,2.13796e-27,OpenGWAS,FALSE
+rs3130277,Type 1 diabetes,2.16521e-27,OpenGWAS,TRUE
+rs3130277,Total bilirubin levels (UKB data field 30840),2.36374e-27,OpenGWAS,FALSE
+rs3130277,Leg predicted mass (right),2.90001e-27,OpenGWAS,FALSE
+rs3130277,Lymphocyte count,3.43875e-27,OpenGWAS,FALSE
+rs3130277,Weight,3.50026e-27,OpenGWAS,FALSE
+rs3130277,telomere length,4.49987e-27,OpenGWAS,FALSE
+rs3130277,Lymphocyte count,4.6366e-27,OpenGWAS,FALSE
+rs3130277,Arm fat-free mass (right),5.90065e-27,OpenGWAS,FALSE
+rs3130277,ENSG00000204305,1.32404e-26,OpenGWAS,FALSE
+rs3130277,"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis",1.59993e-26,OpenGWAS,FALSE
+rs3130277,Total bilirubin levels (UKB data field 30840),1.79846e-26,OpenGWAS,FALSE
+rs3130277,Psoriatic arthritis,3.05e-26,OpenGWAS,FALSE
+rs3130277,Epstein-Barr virus EBNA-1 antibody levels,3.60994e-26,OpenGWAS,FALSE
+rs3130277,Weight,6.00067e-26,OpenGWAS,FALSE
+rs3130277,Appendicular lean mass,6.50729e-26,OpenGWAS,FALSE
+rs3130277,ENSG00000204304,7.85236e-26,OpenGWAS,FALSE
+rs3130277,Rac GTPase-activating protein 1,8.70964e-26,OpenGWAS,FALSE
+rs3130277,Eosinophil counts,9.67164e-26,OpenGWAS,FALSE
+rs3130277,ENSG00000204516,1.46521e-25,OpenGWAS,FALSE
+rs3130277,ENSG00000204528,1.85524e-25,OpenGWAS,FALSE
+rs917326,Plateletcrit,2.29985e-25,OpenGWAS,FALSE
+rs3130277,Red blood cell count,2.39994e-25,OpenGWAS,FALSE
+rs4921213,Non-cancer illness code  self-reported: psoriasis,5.65458e-25,OpenGWAS,FALSE
+rs3130277,Platelet count,6.00067e-25,OpenGWAS,FALSE
+rs3130277,ENSG00000221988,6.16737e-25,OpenGWAS,FALSE
+rs28504380,Eosinophil counts,3.11028e-24,OpenGWAS,FALSE
+rs3130277,Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis,3.48739e-24,OpenGWAS,FALSE
+rs3130277,Platelet count (UKB data field 30080),3.55386e-24,OpenGWAS,FALSE
+rs28504380,Eosinophil counts,1.10002e-23,OpenGWAS,FALSE
+rs3130277,Psoriasis,1.23595e-23,OpenGWAS,FALSE
+rs28504380,White blood cell count,1.32404e-23,OpenGWAS,FALSE
+rs147494818,Appendicular lean mass,2.05684e-23,OpenGWAS,FALSE
+rs3130277,Weight,2.69898e-23,OpenGWAS,FALSE
+rs3130277,Thyrotoxicosis with diffuse goitre,2.96415e-23,OpenGWAS,FALSE
+rs28504380,Monocyte count,5.03965e-23,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte percentage of red cells,5.30029e-23,OpenGWAS,FALSE
+rs3130277,"Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection, CLOZUK+PGC2",7.50067e-23,OpenGWAS,FALSE
+rs3130277,Thyroid problem (not cancer),7.59976e-23,OpenGWAS,FALSE
+rs3130277,Whole body fat-free mass,7.98178e-23,OpenGWAS,FALSE
+rs3130277,Haemoglobin concentration (UKB data field 30020),8.84097e-23,OpenGWAS,FALSE
+rs917326,Platelet count,1.10994e-22,OpenGWAS,FALSE
+rs3130277,Psoriasis,1.14499e-22,OpenGWAS,FALSE
+rs3130277,Neutrophil count,1.23994e-22,OpenGWAS,FALSE
+rs3130277,neutrophil cell count,1.23994e-22,OpenGWAS,FALSE
+rs3130277,Hematocrit,1.42004e-22,OpenGWAS,FALSE
+rs28504380,Eosinophil counts,1.69981e-22,OpenGWAS,FALSE
+rs3130277,Basal metabolic rate,1.81009e-22,OpenGWAS,FALSE
+rs3130277,White blood cell count,3.11817e-22,OpenGWAS,FALSE
+rs3130277,Reticulocyte count,3.53346e-22,OpenGWAS,FALSE
+rs3130277,Whole body water mass,3.7914e-22,OpenGWAS,FALSE
+rs3130277,Schizophrenia,3.83001e-22,OpenGWAS,FALSE
+rs3130277,Platelet count,4.46067e-22,OpenGWAS,FALSE
+rs4921213,Mean platelet volume,4.49987e-22,OpenGWAS,FALSE
+rs3130277,Reticulocyte count,6.82653e-22,OpenGWAS,FALSE
+rs4921213,Psoriatic arthritis,7.00003e-22,OpenGWAS,FALSE
+rs3130277,Other diseases of the digestive system,7.30634e-22,OpenGWAS,FALSE
+rs3130277,Arm predicted mass (right),8.02971e-22,OpenGWAS,FALSE
+rs3130277,Bread type: Other type of bread,8.22243e-22,OpenGWAS,FALSE
+rs28504380,Monocyte count,9.13692e-22,OpenGWAS,FALSE
+rs3130277,Diabetes or endocrine disease,9.30037e-22,OpenGWAS,TRUE
+rs3130277,Arm predicted mass (left),1.32739e-21,OpenGWAS,FALSE
+rs3130277,Gamma glutamyltransferase levels (UKB data field 30730),1.75671e-21,OpenGWAS,FALSE
+rs3130277,Type 1 diabetes,1.76319e-21,OpenGWAS,TRUE
+rs3130277,Arm fat-free mass (right),1.81803e-21,OpenGWAS,FALSE
+rs3130277,Receptor for advanced glycosylation end products levels,1.96879e-21,OpenGWAS,FALSE
+rs3130277,Trunk fat-free mass,2.0455e-21,OpenGWAS,FALSE
+rs3130277,ENSG00000204531,2.44737e-21,OpenGWAS,FALSE
+rs3130277,Arm fat-free mass (left),2.56803e-21,OpenGWAS,FALSE
+rs3130277,ENSG00000204314,3.38143e-21,OpenGWAS,FALSE
+rs3130277,Trunk predicted mass,3.89493e-21,OpenGWAS,FALSE
+rs3130277,Hematocrit,4.30031e-21,OpenGWAS,FALSE
+rs3130277,Treatment/medication code: insulin product,4.90004e-21,OpenGWAS,TRUE
+rs3130277,Platelet count,5.46135e-21,OpenGWAS,FALSE
+rs3130277,Operative procedures - secondary OPCS: Z27.4 Duodenum,7.29962e-21,OpenGWAS,FALSE
+rs3130277,Schizophrenia,8.8308e-21,OpenGWAS,FALSE
+rs147494818,Trunk fat-free mass,1.10002e-20,OpenGWAS,FALSE
+rs3130277,Hip circumference (UKB data field 49),1.13266e-20,OpenGWAS,FALSE
+rs3130277,Weight,1.1825e-20,OpenGWAS,FALSE
+rs147494818,Trunk predicted mass,1.39991e-20,OpenGWAS,FALSE
+rs3130277,Leg fat-free mass (right),2.8425e-20,OpenGWAS,FALSE
+rs3130277,Leg predicted mass (left),3.24564e-20,OpenGWAS,FALSE
+rs1363972,ENSG00000164258,3.53346e-20,OpenGWAS,FALSE
+rs3130277,Hip circumference,4.10015e-20,OpenGWAS,FALSE
+rs3130277,Leg fat-free mass (left),4.24717e-20,OpenGWAS,FALSE
+rs28504380,White blood cell count,4.30031e-20,OpenGWAS,FALSE
+rs3130277,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",5.01187e-20,OpenGWAS,FALSE
+rs3130277,Leg predicted mass (right),6.18586e-20,OpenGWAS,FALSE
+rs3130277,Mean sphered cell volume,6.56901e-20,OpenGWAS,FALSE
+rs28504380,Eosinophil counts,7.37564e-20,OpenGWAS,FALSE
+rs3130277,Eosinophil counts,7.42677e-20,OpenGWAS,FALSE
+rs3130277,Cystatin C levels (UKB data field 30720),8.23759e-20,OpenGWAS,FALSE
+rs3130277,Hemoglobin,8.30424e-20,OpenGWAS,FALSE
+rs3130277,Varicella zoster virus glycoproteins E and I antibody levels,8.86952e-20,OpenGWAS,FALSE
+rs3130277,Eosinophil percentage of white cells,9.09913e-20,OpenGWAS,FALSE
+rs3130277,Sum eosinophil basophil counts,1.07399e-19,OpenGWAS,FALSE
+rs3130277,Medication use (thyroid preparations),1.20005e-19,OpenGWAS,FALSE
+rs147494818,Height,1.39991e-19,OpenGWAS,FALSE
+rs3130277,Psoriasis vulgaris,2.9067e-19,OpenGWAS,FALSE
+rs3130277,Haemoglobin concentration,3.17322e-19,OpenGWAS,FALSE
+rs3130277,Glutamate receptor 4,4.46684e-19,OpenGWAS,FALSE
+rs147494818,Whole body fat-free mass,5.70033e-19,OpenGWAS,FALSE
+rs3130277,Neutrophil count,7.19946e-19,OpenGWAS,FALSE
+rs147494818,Whole body water mass,7.50067e-19,OpenGWAS,FALSE
+rs28504380,Lymphocyte count,8.60003e-19,OpenGWAS,FALSE
+rs3130277,Treatment/medication code: insulin product,8.60399e-19,OpenGWAS,TRUE
+rs3130277,Ubiquitin carboxyl-terminal hydrolase 25,1.25893e-18,OpenGWAS,FALSE
+rs28504380,Lymphocyte count,1.45915e-18,OpenGWAS,FALSE
+rs3130277,Total testosterone levels,1.59993e-18,OpenGWAS,FALSE
+rs3130277,Reticulocyte percentage,1.80468e-18,OpenGWAS,FALSE
+rs28504380,White blood cell leukocyte count (UKB data field 30000),1.99297e-18,OpenGWAS,FALSE
+rs147494818,Height,1.99986e-18,OpenGWAS,FALSE
+rs147494818,Basal metabolic rate,2.49977e-18,OpenGWAS,FALSE
+rs3130277,Lymphocyte counts,2.80479e-18,OpenGWAS,FALSE
+rs28504380,Monocyte count,2.90001e-18,OpenGWAS,FALSE
+rs28504380,Eosinophill count (UKB data field 30150),2.91273e-18,OpenGWAS,FALSE
+rs3130277,Appendicular lean mass,3.40017e-18,OpenGWAS,FALSE
+rs3130277,Plateletcrit,3.50026e-18,OpenGWAS,FALSE
+rs3130277,Bullous disorders,5.52841e-18,OpenGWAS,FALSE
+rs147494818,Sitting height,5.70033e-18,OpenGWAS,FALSE
+rs3130277,Height,6.97108e-18,OpenGWAS,FALSE
+rs3130277,Neutrophill count (UKB data field 30140),7.34345e-18,OpenGWAS,FALSE
+rs3130277,FEV1,1.01601e-17,OpenGWAS,FALSE
+rs4921213,Mean platelet volume,1.16011e-17,OpenGWAS,FALSE
+rs3130277,"HLA class II histocompatibility antigen, DQ alpha 2 chain",1.1749e-17,OpenGWAS,FALSE
+rs3130277,Type 1 diabetes,1.46016e-17,OpenGWAS,TRUE
+rs917326,Platelet count,2.09991e-17,OpenGWAS,FALSE
+rs28504380,White blood cell count,2.42996e-17,OpenGWAS,FALSE
+rs3130277,Cystatin C,2.74347e-17,OpenGWAS,FALSE
+rs3130277,Schizophrenia,3.26437e-17,OpenGWAS,FALSE
+rs3130277,Reticulocyte fraction of red cells,3.77225e-17,OpenGWAS,FALSE
+rs3130277,Total bilirubin levels,4.51544e-17,OpenGWAS,FALSE
+rs917326,Platelet count,4.60045e-17,OpenGWAS,FALSE
+rs3130277,Total bilirubin,7.24436e-17,OpenGWAS,FALSE
+rs3130277,"Never eat eggs, dairy, wheat, sugar: I eat all of the above",8.10028e-17,OpenGWAS,FALSE
+rs147494818,Basal metabolic rate,8.30042e-17,OpenGWAS,FALSE
+rs147494818,Standing height,8.76395e-17,OpenGWAS,FALSE
+rs4921213,Mean platelet volume,1e-16,OpenGWAS,FALSE
+rs3130277,ENSG00000248290,1.43252e-16,OpenGWAS,FALSE
+rs3130277,"Disorders of thyroid, IBD co-morbidities",1.46893e-16,OpenGWAS,FALSE
+rs917326,Platelet crit,1.48457e-16,OpenGWAS,FALSE
+rs28504380,White blood cell count,1.69981e-16,OpenGWAS,FALSE
+rs3130277,Hip circumference,2.48199e-16,OpenGWAS,FALSE
+rs3130277,Graves' disease,2.77013e-16,OpenGWAS,FALSE
+rs3130277,Standing height,4.32414e-16,OpenGWAS,FALSE
+rs28504380,Monocyte count (UKB data field 30130),5.21915e-16,OpenGWAS,FALSE
+rs147494818,Arm predicted mass (left),9.09913e-16,OpenGWAS,FALSE
+rs3130277,Cystatin C,9.9816e-16,OpenGWAS,FALSE
+rs147494818,Arm fat-free mass (right),1.10002e-15,OpenGWAS,FALSE
+rs3130277,Bowel problem,1.20005e-15,OpenGWAS,FALSE
+rs3130277,Ankle spacing width,1.29987e-15,OpenGWAS,FALSE
+rs3130277,Red blood cell erythrocyte count (UKB data field 30010),1.62368e-15,OpenGWAS,FALSE
+rs3130277,Red blood cell (erythrocyte) distribution width,1.98564e-15,OpenGWAS,FALSE
+rs3130277,ENSG00000204444,2.39828e-15,OpenGWAS,FALSE
+rs28504380,Lymphocyte count (UKB data field 30120),2.70085e-15,OpenGWAS,FALSE
+rs917326,Platelet count,3.20922e-15,OpenGWAS,FALSE
+rs147494818,Arm fat-free mass (left),3.40017e-15,OpenGWAS,FALSE
+rs3130277,Gamma glutamyl transpeptidase,3.84238e-15,OpenGWAS,FALSE
+rs3130277,Started insulin within one year diagnosis of diabetes,4.00037e-15,OpenGWAS,TRUE
+rs147494818,Leg fat-free mass (right),4.10015e-15,OpenGWAS,FALSE
+rs3130277,Gamma glutamyltransferase,4.6153e-15,OpenGWAS,FALSE
+rs147494818,Leg predicted mass (right),5.00035e-15,OpenGWAS,FALSE
+rs3130277,schizophrenia,5.54243e-15,OpenGWAS,FALSE
+rs147494818,Appendicular lean mass,6.00067e-15,OpenGWAS,FALSE
+rs4921213,Mean platelet thrombocyte volume (UKB data field 30100),6.19156e-15,OpenGWAS,FALSE
+rs3130277,Hyperthyroidism,1.50695e-14,OpenGWAS,FALSE
+rs147494818,Leg fat-free mass (left),1.69981e-14,OpenGWAS,FALSE
+rs3130277,Thyrotoxicosis,1.78813e-14,OpenGWAS,FALSE
+rs147494818,Leg predicted mass (left),2.39994e-14,OpenGWAS,FALSE
+rs147494818,Arm predicted mass (right),2.70023e-14,OpenGWAS,FALSE
+rs3130277,Total testosterone levels,2.80027e-14,OpenGWAS,FALSE
+rs3130277,"Thyrotoxicosis, other and/or unspecified",3.28398e-14,OpenGWAS,FALSE
+rs28504380,Eosinophil percentage of white cells,3.29989e-14,OpenGWAS,FALSE
+rs3130277,diastolic blood pressure,4.27661e-14,OpenGWAS,TRUE
+rs3130277,ENSG00000225851,4.39339e-14,OpenGWAS,FALSE
+rs28504380,Lymphocyte count,4.70002e-14,OpenGWAS,FALSE
+rs28504380,Monocyte count,5.33581e-14,OpenGWAS,FALSE
+rs917326,Platelet count (UKB data field 30080),5.98136e-14,OpenGWAS,FALSE
+rs3130277,Neutrophill count,6.61302e-14,OpenGWAS,FALSE
+rs3130277,Hypothyroidism or myxedema,7.29962e-14,OpenGWAS,FALSE
+rs28504380,White blood cell (leukocyte) count,8.67761e-14,OpenGWAS,FALSE
+rs3130277,Neutrophil count,1.48594e-13,OpenGWAS,FALSE
+rs3130277,Operation code: varicose vein surgery,1.69981e-13,OpenGWAS,FALSE
+rs3130277,Hypothyroidism or myxoedema (Firth correction),1.85609e-13,OpenGWAS,FALSE
+rs3130277,Hypothyroidism or myxoedema (SPA correction),2.05211e-13,OpenGWAS,FALSE
+rs3130277,Treatment/medication code: levothyroxine sodium,2.60016e-13,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte count,3.08248e-13,OpenGWAS,FALSE
+rs3130277,FEV1/FVC < 0.7,3.50026e-13,OpenGWAS,FALSE
+rs4921213,Dermatologic disease,3.69999e-13,OpenGWAS,FALSE
+rs3130277,Hypothyroidism,4.30031e-13,OpenGWAS,FALSE
+rs3130277,Disorders of the thyroid gland,4.38935e-13,OpenGWAS,FALSE
+rs3130277,Testosterone,4.52689e-13,OpenGWAS,FALSE
+rs147494818,Trunk predicted mass,4.66659e-13,OpenGWAS,FALSE
+rs147494818,Trunk fat-free mass,4.97508e-13,OpenGWAS,FALSE
+rs3130277,Started insulin within one year diagnosis of diabetes,5.86949e-13,OpenGWAS,TRUE
+rs3130277,Myeloid white cell count,6.55239e-13,OpenGWAS,FALSE
+rs3130277,Impedance of whole body,7.10068e-13,OpenGWAS,FALSE
+rs3130277,Mean platelet thrombocyte volume (UKB data field 30100),9.03649e-13,OpenGWAS,FALSE
+rs3130277,Sicca syndrome [Sj<c2><9a>gren],9.43626e-13,OpenGWAS,FALSE
+rs28504380,Lymphocyte count,1.09572e-12,OpenGWAS,FALSE
+rs3130277,Iridocyclitis,1.11301e-12,OpenGWAS,FALSE
+rs3130277,Non-cancer illness code  self-reported: ankylosing spondylitis,1.18823e-12,OpenGWAS,FALSE
+rs3130277,Leg fat mass (left),1.20005e-12,OpenGWAS,FALSE
+rs147494818,Weight,1.25487e-12,OpenGWAS,FALSE
+rs3130277,Age diabetes diagnosed,1.29987e-12,OpenGWAS,TRUE
+rs3130277,Arm fat mass (right),1.39991e-12,OpenGWAS,FALSE
+rs3130277,Eosinophill percentage,1.49417e-12,OpenGWAS,FALSE
+rs917326,Platelet distribution width,1.50003e-12,OpenGWAS,FALSE
+rs3130277,Platelet crit,1.53073e-12,OpenGWAS,FALSE
+rs3130277,Leg fat mass (left),1.57435e-12,OpenGWAS,FALSE
+rs3130277,"Non-cancer illness code, self-reported: hypothyroidism/myxoedema",1.69981e-12,OpenGWAS,FALSE
+rs3130277,Estimated glomerular filtration rate (creatinine),1.7191e-12,OpenGWAS,FALSE
+rs3130277,Early-onset myasthenia gravis,1.72783e-12,OpenGWAS,FALSE
+rs3130277,Monocyte percentage,1.7362e-12,OpenGWAS,FALSE
+rs3130277,Leg fat mass (right),1.9002e-12,OpenGWAS,FALSE
+rs3130277,Atopic dermatitis,1.93019e-12,OpenGWAS,FALSE
+rs3130277,Lichen planus,1.96291e-12,OpenGWAS,FALSE
+rs3130277,Autoimmune hyperthyroidism,2.01187e-12,OpenGWAS,FALSE
+rs3130277,Mean corpuscular hemoglobin concentration,2.1702e-12,OpenGWAS,FALSE
+rs147494818,Sitting height,2.24027e-12,OpenGWAS,FALSE
+rs4921213,Mean platelet (thrombocyte) volume,2.79705e-12,OpenGWAS,FALSE
+rs3130277,Mean corpuscular haemoglobin concentration,2.86154e-12,OpenGWAS,FALSE
+rs3130277,Appendicular lean mass,2.90001e-12,OpenGWAS,FALSE
+rs3130277,HDL cholesterol,2.90001e-12,OpenGWAS,TRUE
+rs917326,Platelet distribution width,2.99985e-12,OpenGWAS,FALSE
+rs3130277,Testosterone levels (UKB data field 30850),3.28776e-12,OpenGWAS,FALSE
+rs3130277,Testosterone,3.37443e-12,OpenGWAS,FALSE
+rs3130277,Arm fat mass (left),3.50026e-12,OpenGWAS,FALSE
+rs3130277,Whole body fat mass,4.10015e-12,OpenGWAS,FALSE
+rs3130277,Arthropod-borne viral fevers and viral haemorrhagic fevers,4.30427e-12,OpenGWAS,FALSE
+rs3130277,Peak expiratory flow (UKB data field 3064),4.36415e-12,OpenGWAS,FALSE
+rs3130277,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Insulin",4.40048e-12,OpenGWAS,TRUE
+rs3130277,Systemic connective tissue disorders,4.65908e-12,OpenGWAS,FALSE
+rs3130277,Monocyte percentage of white cells,4.90004e-12,OpenGWAS,FALSE
+rs3130277,Impedance of leg (left),4.90004e-12,OpenGWAS,FALSE
+rs28504380,White blood cell count,5.60015e-12,OpenGWAS,FALSE
+rs28504380,Eosinophill percentage,5.78629e-12,OpenGWAS,FALSE
+rs3130277,Acute and subacute iridocyclitis,5.83983e-12,OpenGWAS,FALSE
+rs3130277,Hypothyroidism,6.70039e-12,OpenGWAS,FALSE
+rs3130277,Diagnoses - secondary ICD10: E10.9 Without complications,6.79986e-12,OpenGWAS,FALSE
+rs3130277,Time to complete round,6.89922e-12,OpenGWAS,FALSE
+rs3130277,Intestinal malabsorbtion,7.97811e-12,OpenGWAS,FALSE
+rs3130277,"Hypothyroidism,  other/unspecified",9.20874e-12,OpenGWAS,FALSE
+rs3130277,Trunk fat mass,9.30037e-12,OpenGWAS,FALSE
+rs3130277,Leg fat mass (right),1.03181e-11,OpenGWAS,FALSE
+rs147494818,Whole body water mass,1.04858e-11,OpenGWAS,FALSE
+rs147494818,Comparative height size at age 10,1.10179e-11,OpenGWAS,FALSE
+rs3130277,Glucose,1.1285e-11,OpenGWAS,TRUE
+rs3130277,C reactive protein levels (UKB data field 30710),1.20005e-11,OpenGWAS,FALSE
+rs3130277,Operative procedures - main OPCS: G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract,1.29987e-11,OpenGWAS,FALSE
+rs147494818,Whole body fat-free mass,1.3627e-11,OpenGWAS,FALSE
+rs3130277,"Hypothyroidism, strict autoimmune",1.41384e-11,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte count,1.46285e-11,OpenGWAS,FALSE
+rs3130277,Platelet count,1.92486e-11,OpenGWAS,FALSE
+rs3130277,Estimated glomerular filtration rate (creatinine),2.04786e-11,OpenGWAS,FALSE
+rs3130277,Iritis,2.08305e-11,OpenGWAS,FALSE
+rs3130277,Uveitis,2.11203e-11,OpenGWAS,FALSE
+rs3130277,ENSG00000224557,2.2346e-11,OpenGWAS,FALSE
+rs3130277,Ankylosing spondylitis,3.0311e-11,OpenGWAS,FALSE
+rs3130277,Mean platelet (thrombocyte) volume,3.43321e-11,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_MD_Posterior_thalamic_radiation_L,3.49945e-11,OpenGWAS,FALSE
+rs3130277,Diagnoses - main ICD10: R31 Unspecified haematuria,3.80014e-11,OpenGWAS,FALSE
+rs3130277,Cholesterol levels (UKB data field 30690),3.97558e-11,OpenGWAS,TRUE
+rs3130277,T-cell surface protein tactile,4.57088e-11,OpenGWAS,FALSE
+rs3130277,Beta-defensin 119,4.67735e-11,OpenGWAS,FALSE
+rs4921213,Psoriasis vulgaris,4.86855e-11,OpenGWAS,FALSE
+rs3130277,ENSG00000204390,6.23448e-11,OpenGWAS,FALSE
+rs917326,Platelet count,7.67892e-11,OpenGWAS,FALSE
+rs3130277,Impedance of leg (right),7.70016e-11,OpenGWAS,FALSE
+rs3130277,Medication for cholesterol  blood pressure or diabetes: Insulin,7.92866e-11,OpenGWAS,TRUE
+rs4921213,Psoriasis vulgaris,7.98178e-11,OpenGWAS,FALSE
+rs3130277,"Hypothyroidism, strict autoimmune, 3 medication purchases required",8.62979e-11,OpenGWAS,FALSE
+rs3130277,Creatinine levels (UKB data field 30700),8.6816e-11,OpenGWAS,FALSE
+rs3130277,Whole body fat mass,8.70563e-11,OpenGWAS,FALSE
+rs3130277,ENSG00000213676,9.06358e-11,OpenGWAS,FALSE
+rs3130277,IGF 1 (UKB data field 30770),1.00631e-10,OpenGWAS,FALSE
+rs4921213,multiple sclerosis,1.10301e-10,OpenGWAS,FALSE
+rs3130277,Red cell distribution width,1.15001e-10,OpenGWAS,FALSE
+rs3130277,Other and unspecified psoriasis,1.17601e-10,OpenGWAS,FALSE
+rs3130277,ENSG00000204351,1.25441e-10,OpenGWAS,FALSE
+rs3130277,IgA nephropathy,1.262e-10,OpenGWAS,FALSE
+rs28504380,Monocyte count,1.29999e-10,OpenGWAS,FALSE
+rs3130277,Red blood cell count,1.64999e-10,OpenGWAS,FALSE
+rs3130277,Non-cancer illness code  self-reported: hypothyroidism/myxoedema,1.81059e-10,OpenGWAS,FALSE
+rs917326,Plateletcrit,1.93099e-10,OpenGWAS,FALSE
+rs3130277,"Non-cancer illness code, self-reported: eczema/dermatitis",2e-10,OpenGWAS,FALSE
+rs3130277,Serum creatinine levels,2.18198e-10,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte percentage,2.20288e-10,OpenGWAS,FALSE
+rs3130277,Mean platelet volume,2.52e-10,OpenGWAS,FALSE
+rs3130277,Creatinine,2.69519e-10,OpenGWAS,FALSE
+rs3130277,Asthma,2.69998e-10,OpenGWAS,FALSE
+rs917326,Glycated haemoglobin HbA1c levels (UKB data field 30750),2.72766e-10,OpenGWAS,TRUE
+rs147494818,Basal metabolic rate,2.89334e-10,OpenGWAS,FALSE
+rs3130277,Red blood cell (erythrocyte) count,3.09835e-10,OpenGWAS,FALSE
+rs3130277,Glucose levels,3.27002e-10,OpenGWAS,TRUE
+rs147494818,Weight,3.40001e-10,OpenGWAS,FALSE
+rs3130277,Total cholesterol levels,3.54903e-10,OpenGWAS,TRUE
+rs28504380,Neutrophil count,3.69999e-10,OpenGWAS,FALSE
+rs147494818,Arm predicted mass (left),3.748e-10,OpenGWAS,FALSE
+rs3130277,Impedance of arm (left),3.79997e-10,OpenGWAS,FALSE
+rs3130277,Impedance of arm (right),3.89996e-10,OpenGWAS,FALSE
+rs3130277,Body mass index,3.95303e-10,OpenGWAS,TRUE
+rs3130277,Eczema or dermatitis,4e-10,OpenGWAS,FALSE
+rs186057120,ENSG00000106066,4.24893e-10,OpenGWAS,FALSE
+rs3130277,"Medication for cholesterol, blood pressure or diabetes: Insulin",4.39997e-10,OpenGWAS,TRUE
+rs3130277,Body mass index (BMI),4.60002e-10,OpenGWAS,TRUE
+rs3130277,Total Testosterone,4.79999e-10,OpenGWAS,FALSE
+rs3130277,Trunk fat mass,4.80308e-10,OpenGWAS,FALSE
+rs3130277,Granulocyte count,5.14304e-10,OpenGWAS,FALSE
+rs3130277,Eosinophil percentage of granulocytes,5.34503e-10,OpenGWAS,FALSE
+rs76560544,ENSG00000083123,5.74024e-10,OpenGWAS,FALSE
+rs3130277,apolipoprotein A-I,6.1e-10,OpenGWAS,TRUE
+rs147494818,Weight,6.29999e-10,OpenGWAS,FALSE
+rs147494818,Arm fat-free mass (left),6.4847e-10,OpenGWAS,FALSE
+rs3130277,Cholesterol,6.59295e-10,OpenGWAS,TRUE
+rs3130277,Autoimmune traits,7.10003e-10,OpenGWAS,FALSE
+rs4921213,Hematological or dermatological disease,7.19996e-10,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_L2_Posterior_thalamic_radiation_L,7.38924e-10,OpenGWAS,FALSE
+rs3130277,IGF-1,7.44663e-10,OpenGWAS,FALSE
+rs3130277,Body mass index (UKB data field 21001),7.70832e-10,OpenGWAS,TRUE
+rs3130277,Body mass index (UKB data field 21001),7.71649e-10,OpenGWAS,TRUE
+rs3130277,Sum neutrophil eosinophil counts,8.59093e-10,OpenGWAS,FALSE
+rs3130277,Hematocrit,8.94808e-10,OpenGWAS,FALSE
+rs3130277,Glucose,9.07047e-10,OpenGWAS,TRUE
+rs3130277,"Viral haemorrhagic fevers, not elsewhere classified/unspecified",9.29908e-10,OpenGWAS,FALSE
+rs3130277,"Cereal type: Other (e.g. Cornflakes, Frosties)",9.52665e-10,OpenGWAS,FALSE
+rs3130277,Eosinophil percentage of white cells,9.56511e-10,OpenGWAS,FALSE
+rs3130277,Impedance of arm (left),9.909e-10,OpenGWAS,FALSE
+rs3130277,Arm fat mass (right),1.00786e-09,OpenGWAS,FALSE
+rs3130277,Systemic lupus erythematosus,1.046e-09,OpenGWAS,FALSE
+rs3130277,Plateletcrit,1.084e-09,OpenGWAS,FALSE
+rs3130277,Cholesterol,1.1692e-09,OpenGWAS,TRUE
+rs3130277,Arm fat mass (left),1.23925e-09,OpenGWAS,FALSE
+rs3130277,Impedance of whole body,1.2616e-09,OpenGWAS,FALSE
+rs3130277,Body mass index (BMI),1.29999e-09,OpenGWAS,TRUE
+rs28504380,White blood cell count,1.5e-09,OpenGWAS,FALSE
+rs147494818,Appendicular lean mass,1.6e-09,OpenGWAS,FALSE
+rs3130277,ENSG00000204392,1.74852e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_L3_Posterior_thalamic_radiation_L,1.77133e-09,OpenGWAS,FALSE
+rs3130277,High density lipoprotein cholesterol levels (UKB data field 30760),1.95277e-09,OpenGWAS,TRUE
+rs3130277,Glucose levels (UKB data field 30740),2.01498e-09,OpenGWAS,TRUE
+rs3130277,IDP_dMRI_TBSS_ICVF_Posterior_thalamic_radiation_L,2.2075e-09,OpenGWAS,FALSE
+rs3130277,Total testosterone levels,2.30001e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_L3_ifo_l,2.33453e-09,OpenGWAS,FALSE
+rs28504380,Eosinophil counts,2.36799e-09,OpenGWAS,FALSE
+rs28504380,White blood cell count,2.45601e-09,OpenGWAS,FALSE
+rs3130277,Haematocrit percentage,2.49488e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_L2_ifo_l,2.5015e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_MD_ifo_l,2.50669e-09,OpenGWAS,FALSE
+rs3130277,Other systemic involvement of connective tissue,2.557e-09,OpenGWAS,FALSE
+rs3130277,SLE (Finngen),2.57602e-09,OpenGWAS,FALSE
+rs3130277,Other systemic involvement of connective tissue (FG),2.61999e-09,OpenGWAS,FALSE
+rs3130277,"SLE, strict definition",2.688e-09,OpenGWAS,FALSE
+rs3130277,Red blood cell count,2.70801e-09,OpenGWAS,FALSE
+rs3130277,Medication use (drugs used in diabetes),2.72998e-09,OpenGWAS,TRUE
+rs3130277,HDL cholesterol,2.74303e-09,OpenGWAS,TRUE
+rs3130277,HDL cholesterol,2.85522e-09,OpenGWAS,TRUE
+rs3130277,Comparative body size at age 10,3.09999e-09,OpenGWAS,FALSE
+rs3130277,"Endocrine, nutritional and metabolic diseases",3.17402e-09,OpenGWAS,FALSE
+rs147494818,Arm predicted mass (right),3.18471e-09,OpenGWAS,FALSE
+rs147494818,Arm fat-free mass (right),3.45915e-09,OpenGWAS,FALSE
+rs3130277,Bioavailable testosterone levels,3.89996e-09,OpenGWAS,FALSE
+rs28504380,Sum eosinophil basophil counts,3.94803e-09,OpenGWAS,FALSE
+rs28504380,Neutrophill count (UKB data field 30140),4.16188e-09,OpenGWAS,FALSE
+rs3130277,Neutrophil percentage of granulocytes,4.31996e-09,OpenGWAS,FALSE
+rs3130277,Peak expiratory flow (PEF),4.49997e-09,OpenGWAS,FALSE
+rs3130277,IGF-1,4.61063e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_MD_Sagittal_stratum_R,4.83393e-09,OpenGWAS,FALSE
+rs3130277,Mean platelet volume,5e-09,OpenGWAS,FALSE
+rs3130277,Respiratory or ear-nose-throat disease,5e-09,OpenGWAS,FALSE
+rs3130277,"Forced expiratory volume in 1-second (FEV1), predicted percentage",5e-09,OpenGWAS,FALSE
+rs3130277,ENSG00000204261,5.392e-09,OpenGWAS,FALSE
+rs3130277,Impedance of arm (right),5.78695e-09,OpenGWAS,FALSE
+rs3130277,High light scatter reticulocyte percentage of red cells,6.35594e-09,OpenGWAS,FALSE
+rs3130277,Glycated hemoglobin levels,7.37004e-09,OpenGWAS,FALSE
+rs3130277,"Comparative body size at age 10, Males and Females",7.59994e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_L1_Superior_longitudinal_fasciculus_L,7.6454e-09,OpenGWAS,FALSE
+rs917326,Platelet distribution width,7.76229e-09,OpenGWAS,FALSE
+rs147494818,Leg fat-free mass (left),7.81466e-09,OpenGWAS,FALSE
+rs3130277,White blood cell count,8.40001e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_ICVF_Posterior_thalamic_radiation_R,8.44306e-09,OpenGWAS,FALSE
+rs3130277,Any parental history of lung cancer (Firth correction),8.82734e-09,OpenGWAS,FALSE
+rs3130277,Any parental history of lung cancer (SPA correction),9.15546e-09,OpenGWAS,FALSE
+rs147494818,Leg predicted mass (left),9.19327e-09,OpenGWAS,FALSE
+rs4921213,Autoimmune traits,9.80009e-09,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_MD_Posterior_thalamic_radiation_R,9.96552e-09,OpenGWAS,FALSE
+rs3130277,ENSG00000204469,1.00081e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_MD_Sagittal_stratum_L,1.06316e-08,OpenGWAS,FALSE
+rs3130277,Body mass index (BMI),1.0711e-08,OpenGWAS,TRUE
+rs3130277,Hemoglobin concentration,1.22501e-08,OpenGWAS,FALSE
+rs147494818,Leg predicted mass (right),1.23954e-08,OpenGWAS,FALSE
+rs4921213,Psoriasis,1.333e-08,OpenGWAS,FALSE
+rs76560544,Sitting height,1.40001e-08,OpenGWAS,FALSE
+rs3130277,Treatment/medication code: levothyroxine sodium,1.46747e-08,OpenGWAS,FALSE
+rs147494818,Leg fat-free mass (right),1.52293e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_MD_ifo_r,1.6338e-08,OpenGWAS,FALSE
+rs3130277,Sj<U+00F6>gren's syndrome,1.761e-08,OpenGWAS,FALSE
+rs3130277,Red cell distribution width,1.79999e-08,OpenGWAS,FALSE
+rs3130277,Main speciality of consultant (recoded): Urology,1.89998e-08,OpenGWAS,FALSE
+rs3130277,Operative procedures - main OPCS: M45.9 Unspecified diagnostic endoscopic examination of bladder,1.89998e-08,OpenGWAS,FALSE
+rs3130277,Hearing difficulty/problems with background noise,2.1e-08,OpenGWAS,TRUE
+rs3130277,HDL cholesterol,2.10698e-08,OpenGWAS,TRUE
+rs28504380,Lymphocyte count,2.12002e-08,OpenGWAS,FALSE
+rs3130277,ENSG00000225059,2.14348e-08,OpenGWAS,FALSE
+rs3130277,"Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma",2.19999e-08,OpenGWAS,FALSE
+rs147494818,Forced vital capacity (FVC),2.30001e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_L3_Posterior_thalamic_radiation_R,2.34045e-08,OpenGWAS,FALSE
+rs3130277,Total bilirubin,2.37848e-08,OpenGWAS,FALSE
+rs3130277,ENSG00000240053,2.4498e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_FA_ifo_l,2.59717e-08,OpenGWAS,FALSE
+rs147494818,FVC,2.59998e-08,OpenGWAS,FALSE
+rs3130277,Type of cancer: ICD10: C61 Malignant neoplasm of prostate,2.69998e-08,OpenGWAS,FALSE
+rs1363972,Qualifications: College or University degree,2.80001e-08,OpenGWAS,FALSE
+rs3130277,Sum basophil neutrophil counts,2.96599e-08,OpenGWAS,FALSE
+rs3130277,Systemic lupus erythematosus,2.97201e-08,OpenGWAS,FALSE
+rs3130277,Other serious medical condition/disability diagnosed by doctor,2.99999e-08,OpenGWAS,FALSE
+rs3130277,Ankle spacing width (right),3.2e-08,OpenGWAS,FALSE
+rs3130277,Morning/evening person (chronotype),3.29997e-08,OpenGWAS,FALSE
+rs3130277,MHC class I polypeptide-related sequence B,3.31131e-08,OpenGWAS,FALSE
+rs3130277,Adult BMI sex-combined,3.50002e-08,OpenGWAS,TRUE
+rs3130277,Hypothyroidism (congenital or acquired),3.661e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_ProbtrackX_ICVF_ptr_r,3.76184e-08,OpenGWAS,FALSE
+rs3130277,Creatinine,3.87284e-08,OpenGWAS,FALSE
+rs3130277,Type 2 diabetes,4.04902e-08,OpenGWAS,TRUE
+rs3130277,"Hypothyroidism, drug reimbursement",4.10299e-08,OpenGWAS,FALSE
+rs3130277,IDP_dMRI_TBSS_L3_Sagittal_stratum_R,4.19276e-08,OpenGWAS,FALSE
+rs3130277,Ubiquitin-like protein ISG15,4.2658e-08,OpenGWAS,FALSE
+rs3130277,Prostate cancer,4.39997e-08,OpenGWAS,FALSE
+rs3130277,Triglyceride levels (UKB data field 30870),4.67638e-08,OpenGWAS,TRUE
+rs3130277,ENSG00000204387,4.84786e-08,OpenGWAS,FALSE
+rs3130277,"Hypothyroidism, levothyroxin purchases",4.93299e-08,OpenGWAS,FALSE
+rs3130277,Hypothyroidism and >3 levothyroxin purchases,4.93299e-08,OpenGWAS,FALSE
+rs1821007,ENSG00000233609,4.02532e-92,OpenGWAS,FALSE
+rs1821007,ENSG00000248538,1.35769e-70,OpenGWAS,FALSE
+rs1821007,Bone mineral density,4.0635e-49,OpenGWAS,FALSE
+rs1821007,Platelet distribution width,1.10002e-45,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density,1.50003e-44,OpenGWAS,FALSE
+rs1821007,Alkaline phosphatase levels (UKB data field 30610),2.2584e-44,OpenGWAS,FALSE
+rs1821007,Alkaline phosphatase,1.07845e-40,OpenGWAS,FALSE
+rs1821007,Platelet distribution width,3.34272e-40,OpenGWAS,FALSE
+rs1821007,ENSG00000147324,1.95299e-37,OpenGWAS,FALSE
+rs1821007,"Heel Broadband ultrasound attenuation, direct entry",2.60016e-37,OpenGWAS,FALSE
+rs1821007,Serum alkaline phosphatase levels,1.12902e-35,OpenGWAS,FALSE
+rs1821007,Red cell distribution width,1.45011e-35,OpenGWAS,FALSE
+rs1821007,Alkaline phosphatase,4.05322e-33,OpenGWAS,FALSE
+rs12704009,ENSG00000199370,5.99791e-32,OpenGWAS,FALSE
+rs1821007,"Heel quantitative ultrasound index (QUI), direct entry",3.59998e-29,OpenGWAS,FALSE
+rs1821007,"Heel bone mineral density (BMD) T-score, automated",3.59998e-29,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD),8.60003e-29,OpenGWAS,FALSE
+rs1821007,Red cell distribution width,1.99986e-28,OpenGWAS,FALSE
+rs1821007,ENSG00000253981,1.69083e-25,OpenGWAS,FALSE
+rs1821007,Red blood cell (erythrocyte) distribution width,3.26287e-24,OpenGWAS,FALSE
+rs1821007,Heel broadband ultrasound attenuation (left),1.9002e-23,OpenGWAS,FALSE
+rs1821007,Impedance of leg (left),1.99986e-23,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD) (left),2.29985e-23,OpenGWAS,FALSE
+rs1821007,"Heel bone mineral density (BMD) T-score, automated (left)",2.29985e-23,OpenGWAS,FALSE
+rs1821007,"Heel quantitative ultrasound index (QUI), direct entry (left)",2.29985e-23,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density,6.90081e-23,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD) (right),8.4004e-23,OpenGWAS,FALSE
+rs1821007,Impedance of whole body,1.29987e-22,OpenGWAS,FALSE
+rs1821007,"Heel bone mineral density (BMD) T-score, automated (right)",2.70023e-22,OpenGWAS,FALSE
+rs1821007,"Heel quantitative ultrasound index (QUI), direct entry (right)",2.70023e-22,OpenGWAS,FALSE
+rs1821007,Heel broadband ultrasound attenuation (right),4.79954e-22,OpenGWAS,FALSE
+rs1821007,Worrier / anxious feelings,6.29941e-22,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD) T-score  automated,3.93007e-21,OpenGWAS,FALSE
+rs1821007,"Systolic blood pressure, automated and manual reading, medication adjusted (add class-specific constant)",9.38642e-21,OpenGWAS,TRUE
+rs1821007,triglycerides,1.59993e-20,OpenGWAS,TRUE
+rs1821007,Impedance of leg (right),8.69961e-20,OpenGWAS,FALSE
+rs1821007,Estimated glomerular filtration rate (creatinine),1.98198e-18,OpenGWAS,FALSE
+rs1821007,White blood cell count,3.19963e-18,OpenGWAS,FALSE
+rs1821007,Worrier / anxious feelings,5.41627e-18,OpenGWAS,FALSE
+rs1821007,Aspartate aminotransferase levels (UKB data field 30650),1.24796e-17,OpenGWAS,FALSE
+rs1821007,Neuroticism score,1.99986e-17,OpenGWAS,FALSE
+rs1821007,Estimated glomerular filtration rate (creatinine),2.29192e-17,OpenGWAS,FALSE
+rs1821007,Neutrophil count,2.70023e-17,OpenGWAS,FALSE
+rs1821007,"Systolic blood pressure, automated and manual reading, medication adjusted (add constant +10mmHg)",3.95367e-17,OpenGWAS,TRUE
+rs1821007,"Systolic blood pressure, automated and manual reading, medication adjusted (censored normal regression)",4.10771e-17,OpenGWAS,TRUE
+rs1821007,systolic blood pressure,4.13333e-17,OpenGWAS,TRUE
+rs1821007,Estimated glomerular filtration rate (creatinine),6.32849e-17,OpenGWAS,FALSE
+rs1821007,Impedance of arm (right),7.10068e-17,OpenGWAS,FALSE
+rs1821007,Neutrophil count,1.13999e-16,OpenGWAS,FALSE
+rs1821007,neutrophil cell count,1.13999e-16,OpenGWAS,FALSE
+rs1821007,Triglyceride levels (UKB data field 30870),1.28617e-16,OpenGWAS,TRUE
+rs1821007,Body mass index (BMI),2.39994e-16,OpenGWAS,TRUE
+rs1821007,Red cell distribution width,4.01606e-16,OpenGWAS,FALSE
+rs1821007,Impedance of arm (left),4.19952e-16,OpenGWAS,FALSE
+rs1821007,Aspartate aminotransferase,4.95336e-16,OpenGWAS,FALSE
+rs1821007,White blood cell count,5.81032e-16,OpenGWAS,FALSE
+rs1821007,white blood cell count,5.81032e-16,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD) T-score  automated (left),1.79226e-15,OpenGWAS,FALSE
+rs1821007,Neuroticism,5.10505e-15,OpenGWAS,FALSE
+rs1821007,Heel bone mineral density (BMD) T-score  automated (right),5.20116e-15,OpenGWAS,FALSE
+rs1821007,Body mass index (BMI),5.50047e-15,OpenGWAS,TRUE
+rs1821007,Aspartate aminotransferase levels,5.57314e-15,OpenGWAS,FALSE
+rs1821007,Glycated haemoglobin HbA1c levels (UKB data field 30750),2.02675e-14,OpenGWAS,TRUE
+rs1821007,Triglycerides,2.063e-14,OpenGWAS,TRUE
+rs1821007,Red cell distribution width,2.80027e-14,OpenGWAS,FALSE
+rs1821007,Alanine aminotransferase levels (UKB data field 30620),3.91652e-14,OpenGWAS,FALSE
+rs1821007,Neuroticism score,4.3142e-14,OpenGWAS,FALSE
+rs1821007,"Systolic blood pressure, automated and manual reading, medication adjusted (restrict to untreated)",4.52168e-14,OpenGWAS,TRUE
+rs1821007,Body mass index (UKB data field 21001),5.06757e-14,OpenGWAS,TRUE
+rs1821007,Body mass index (UKB data field 21001),1.02141e-13,OpenGWAS,TRUE
+rs1821007,Impedance of whole body,1.05269e-13,OpenGWAS,FALSE
+rs1821007,Triglycerides,1.06218e-13,OpenGWAS,TRUE
+rs1821007,ENSG00000173295,1.34338e-13,OpenGWAS,FALSE
+rs1821007,Hypothyroidism or myxoedema (SPA correction),1.39123e-13,OpenGWAS,FALSE
+rs1821007,Hypothyroidism or myxoedema (Firth correction),1.4067e-13,OpenGWAS,FALSE
+rs1821007,Systolic blood pressure automated reading (UKB data field 4080),1.55239e-13,OpenGWAS,TRUE
+rs1821007,Systolic Blood Pressure (SBP),1.99986e-13,OpenGWAS,TRUE
+rs1821007,ENSG00000182319,2.24698e-13,OpenGWAS,FALSE
+rs1821007,Creatinine levels (UKB data field 30700),2.88204e-13,OpenGWAS,FALSE
+rs1821007,High blood pressure (UKB data field 6150) (Firth correction),3.11961e-13,OpenGWAS,TRUE
+rs1821007,High blood pressure (UKB data field 6150) (SPA correction),3.11961e-13,OpenGWAS,TRUE
+rs1821007,Nervous feelings,6.4003e-13,OpenGWAS,FALSE
+rs1821007,"Systolic blood pressure, automated and manual reading, medication unadjusted",6.96947e-13,OpenGWAS,TRUE
+rs1821007,Vascular/heart problems diagnosed by doctor: High blood pressure,8.30042e-13,OpenGWAS,TRUE
+rs1821007,ENSG00000254340,1.30858e-12,OpenGWAS,FALSE
+rs1821007,Impedance of leg (left),1.344e-12,OpenGWAS,FALSE
+rs1821007,Systolic blood pressure,1.40702e-12,OpenGWAS,TRUE
+rs1821007,Liver enzyme levels (alanine transaminase),1.50003e-12,OpenGWAS,FALSE
+rs1821007,Antihypertensive use,1.83147e-12,OpenGWAS,TRUE
+rs1821007,Hypothyroidism or myxedema,1.99986e-12,OpenGWAS,FALSE
+rs1821007,Medication use (thyroid preparations),2.02302e-12,OpenGWAS,FALSE
+rs1821007,C-reactive protein levels,2.17721e-12,OpenGWAS,TRUE
+rs1821007,"Non-cancer illness code, self-reported: hypertension",2.39994e-12,OpenGWAS,TRUE
+rs1821007,Phospholipids to total lipids ratio in small LDL,3.29989e-12,OpenGWAS,TRUE
+rs1821007,Triglycerides,3.46976e-12,OpenGWAS,TRUE
+rs1821007,Cholesteryl esters to total lipids ratio in small LDL,4.10015e-12,OpenGWAS,TRUE
+rs1821007,Diastolic blood pressure automated reading (UKB data field 4079),4.51232e-12,OpenGWAS,TRUE
+rs1821007,Serum creatinine levels,6.60998e-12,OpenGWAS,FALSE
+rs1821007,Adult BMI sex-combined,7.8001e-12,OpenGWAS,TRUE
+rs1821007,Diastolic Blood Pressure (DBP),8.10028e-12,OpenGWAS,TRUE
+rs1821007,Vascular/heart problems diagnosed by doctor: None of the above,8.30042e-12,OpenGWAS,FALSE
+rs1821007,"Non-cancer illness code, self-reported: hypothyroidism/myxoedema",1.29987e-11,OpenGWAS,FALSE
+rs1821007,"Diastolic blood pressure, automated reading",1.39991e-11,OpenGWAS,TRUE
+rs1821007,Impedance of arm (left),1.85353e-11,OpenGWAS,FALSE
+rs1821007,Body mass index,2.58285e-11,OpenGWAS,TRUE
+rs1821007,"Systolic blood pressure, automated reading",2.90001e-11,OpenGWAS,TRUE
+rs1821007,Neuroticism,3.33964e-11,OpenGWAS,FALSE
+rs1821007,Diastolic blood pressure,3.54487e-11,OpenGWAS,TRUE
+rs1821007,Free cholesterol to total lipids ratio in large HDL,3.59998e-11,OpenGWAS,TRUE
+rs1821007,Monocyte count,3.69999e-11,OpenGWAS,FALSE
+rs1821007,monocyte cell count,3.69999e-11,OpenGWAS,FALSE
+rs1821007,Mean corpuscular volume,3.94003e-11,OpenGWAS,FALSE
+rs1821007,Creatinine,4.3481e-11,OpenGWAS,FALSE
+rs1821007,Mean arterial pressure,4.80176e-11,OpenGWAS,FALSE
+rs1821007,Cholesteryl esters to total lipids ratio in small LDL,5.19996e-11,OpenGWAS,TRUE
+rs1821007,Phospholipids to total lipids ratio in small LDL,6.00067e-11,OpenGWAS,TRUE
+rs1821007,Impedance of arm (right),7.2277e-11,OpenGWAS,FALSE
+rs1821007,Alanine aminotransferase,7.53356e-11,OpenGWAS,FALSE
+rs1821007,Body mass index (BMI),8.59805e-11,OpenGWAS,TRUE
+rs1821007,Free cholesterol to total lipids ratio in large HDL,9.20026e-11,OpenGWAS,TRUE
+rs1821007,Average diameter for VLDL particles,1.09999e-10,OpenGWAS,TRUE
+rs1821007,6mm weak meridian (left),1.29999e-10,OpenGWAS,FALSE
+rs1821007,diastolic blood pressure,1.38899e-10,OpenGWAS,TRUE
+rs1821007,Impedance of leg (right),1.44984e-10,OpenGWAS,FALSE
+rs1821007,Alanine aminotransferase levels,1.83299e-10,OpenGWAS,FALSE
+rs1821007,Average diameter for VLDL particles,2e-10,OpenGWAS,TRUE
+rs1821007,Medication use (diuretics),2.21299e-10,OpenGWAS,FALSE
+rs1821007,Eosinophill percentage,2.43686e-10,OpenGWAS,FALSE
+rs1821007,Phospholipid levels in small HDL,2.5e-10,OpenGWAS,TRUE
+rs1821007,Neuroticism,3.19396e-10,OpenGWAS,FALSE
+rs1821007,Neuroticism,3.19396e-10,OpenGWAS,FALSE
+rs1821007,Childhood sunburn occasions,3.59998e-10,OpenGWAS,FALSE
+rs1821007,Total lipid levels in small HDL,3.69999e-10,OpenGWAS,TRUE
+rs1821007,Height,4.37099e-10,OpenGWAS,FALSE
+rs1821007,Glycated haemoglobin,4.49873e-10,OpenGWAS,FALSE
+rs1821007,Nervous feelings,4.55302e-10,OpenGWAS,FALSE
+rs1821007,Diastolic blood pressure  automated reading,5.30799e-10,OpenGWAS,TRUE
+rs1821007,Phospholipids in small HDL,7.69999e-10,OpenGWAS,TRUE
+rs1821007,Leg fat-free mass (left),8.10009e-10,OpenGWAS,FALSE
+rs1821007,Leg predicted mass (left),8.99995e-10,OpenGWAS,FALSE
+rs1821007,Free cholesterol levels in very large HDL,1e-09,OpenGWAS,TRUE
+rs1821007,Total protein,1.12101e-09,OpenGWAS,FALSE
+rs1821007,Non-cancer illness code  self-reported: hypothyroidism/myxoedema,1.15122e-09,OpenGWAS,FALSE
+rs1821007,C reactive protein levels (UKB data field 30710),1.28236e-09,OpenGWAS,FALSE
+rs1821007,Total lipids in small HDL,1.40001e-09,OpenGWAS,TRUE
+rs1821007,Total protein,1.42669e-09,OpenGWAS,FALSE
+rs1821007,Mean platelet thrombocyte volume (UKB data field 30100),1.43983e-09,OpenGWAS,FALSE
+rs1821007,Hypertension,1.5e-09,OpenGWAS,TRUE
+rs1821007,Free cholesterol in very large HDL,1.6e-09,OpenGWAS,TRUE
+rs1821007,Vascular/heart problems diagnosed by doctor: High blood pressure,1.77337e-09,OpenGWAS,TRUE
+rs1821007,Cholesteryl esters to total lipids ratio in medium VLDL,2.1e-09,OpenGWAS,TRUE
+rs1821007,Cholesterol to total lipids ratio in medium VLDL,2.5e-09,OpenGWAS,TRUE
+rs1821007,Age at first sexual intercourse,2.69998e-09,OpenGWAS,FALSE
+rs1821007,"Comparative body size at age 10, Males and Females",2.80001e-09,OpenGWAS,FALSE
+rs1821007,Arm fat mass (left),2.90001e-09,OpenGWAS,FALSE
+rs1821007,Eosinophil percentage of white cells,3.50002e-09,OpenGWAS,FALSE
+rs1821007,Non-cancer illness code  self-reported: hypertension,3.63689e-09,OpenGWAS,TRUE
+rs1821007,Standing height,3.69999e-09,OpenGWAS,FALSE
+rs1821007,Mean platelet (thrombocyte) volume,4.61148e-09,OpenGWAS,FALSE
+rs1821007,Irritability,4.70002e-09,OpenGWAS,FALSE
+rs1821007,Treatment/medication code: levothyroxine sodium,5.30005e-09,OpenGWAS,FALSE
+rs1821007,Arm fat mass (right),5.30005e-09,OpenGWAS,FALSE
+rs1821007,Triglycerides to total lipids ratio in medium VLDL,5.60003e-09,OpenGWAS,TRUE
+rs1821007,Platelet count,5.65002e-09,OpenGWAS,FALSE
+rs1821007,Leg fat-free mass (right),5.69994e-09,OpenGWAS,FALSE
+rs1821007,3mm weak meridian (left),6.59994e-09,OpenGWAS,FALSE
+rs1821007,Systolic blood pressure  automated reading,6.63361e-09,OpenGWAS,TRUE
+rs1821007,Leg predicted mass (right),6.80002e-09,OpenGWAS,FALSE
+rs1821007,Cholesterol to total lipids ratio in medium VLDL,7.79992e-09,OpenGWAS,TRUE
+rs1821007,Cholesteryl esters to total lipids ratio in medium VLDL,8e-09,OpenGWAS,TRUE
+rs1821007,Cholesterol to total lipids ratio in small VLDL,8.9e-09,OpenGWAS,TRUE
+rs1821007,Mean platelet volume,1.02e-08,OpenGWAS,FALSE
+rs1821007,Hypertension,1.09999e-08,OpenGWAS,TRUE
+rs1821007,Serum total protein level,1.276e-08,OpenGWAS,FALSE
+rs1821007,Worry too long after embarrassment,1.29999e-08,OpenGWAS,FALSE
+rs1821007,6mm strong meridian (left),1.29999e-08,OpenGWAS,FALSE
+rs1821007,Comparative body size at age 10,1.40001e-08,OpenGWAS,FALSE
+rs1821007,Age first had sexual intercourse,1.5e-08,OpenGWAS,FALSE
+rs1821007,Triglycerides to total lipids ratio in medium VLDL,1.6e-08,OpenGWAS,TRUE
+rs1821007,Cholesteryl esters to total lipids ratio in medium LDL,1.79999e-08,OpenGWAS,TRUE
+rs1821007,Monounsaturated fatty acid levels,1.89998e-08,OpenGWAS,FALSE
+rs1821007,Free cholesterol levels in chylomicrons and extremely large VLDL,1.89998e-08,OpenGWAS,TRUE
+rs1821007,Triglycerides to total lipids ratio in small VLDL,2e-08,OpenGWAS,TRUE
+rs1821007,Free cholesterol in chylomicrons and extremely large VLDL,2.1e-08,OpenGWAS,TRUE
+rs1821007,Leg fat mass (right),2.1e-08,OpenGWAS,FALSE
+rs1821007,Ratio of monounsaturated fatty acids to total fatty acids,2.19999e-08,OpenGWAS,FALSE
+rs1821007,aparc-a2009s_lh_area_G-temp-sup-Lateral,2.20343e-08,OpenGWAS,FALSE
+rs1821007,Monounsaturated fatty acids,2.30001e-08,OpenGWAS,FALSE
+rs1821007,Cholesteryl esters to total lipids ratio in small VLDL,2.30001e-08,OpenGWAS,TRUE
+rs1821007,Monocyte count,2.66201e-08,OpenGWAS,FALSE
+rs1821007,Hemoglobin A1c levels,2.70097e-08,OpenGWAS,FALSE
+rs1821007,Triglyceride levels in medium VLDL,2.80001e-08,OpenGWAS,TRUE
+rs1821007,Concentration of small HDL particles,2.80001e-08,OpenGWAS,TRUE
+rs1821007,Free cholesterol to total lipids ratio in medium VLDL,2.80001e-08,OpenGWAS,TRUE
+rs1821007,Mean corpuscular hemoglobin,3.07999e-08,OpenGWAS,FALSE
+rs1821007,Reticulocyte fraction of red cells,3.09999e-08,OpenGWAS,FALSE
+rs1821007,High light scatter reticulocyte percentage of red cells,3.29997e-08,OpenGWAS,FALSE
+rs1821007,Oily fish intake,3.29997e-08,OpenGWAS,FALSE
+rs1821007,Platelet count,3.40001e-08,OpenGWAS,FALSE
+rs1821007,"Systolic blood pressure, automated and manual reading, restrict to 50-59 years",3.51051e-08,OpenGWAS,TRUE
+rs1821007,Triglycerides in small VLDL,3.59998e-08,OpenGWAS,TRUE
+rs1821007,Cholesterol to total lipids ratio in small VLDL,3.79997e-08,OpenGWAS,TRUE
+rs1821007,6mm weak meridian (right),3.79997e-08,OpenGWAS,FALSE
+rs1821007,Triglyceride levels in large VLDL,4.09996e-08,OpenGWAS,TRUE
+rs1821007,Fed-up feelings,4.30002e-08,OpenGWAS,FALSE
+rs1821007,Triglyceride levels in VLDL,4.49997e-08,OpenGWAS,TRUE
+rs1821007,Cholesterol levels in chylomicrons and extremely large VLDL,4.60002e-08,OpenGWAS,TRUE
+rs1821007,Free cholesterol to total lipids ratio in medium VLDL,4.70002e-08,OpenGWAS,TRUE
+rs1821007,Standing height,4.84418e-08,OpenGWAS,FALSE
+rs1821007,Triglycerides in medium HDL,4.90004e-08,OpenGWAS,TRUE
+rs1821007,Cholesteryl esters to total lipids ratio in medium LDL,5e-08,OpenGWAS,TRUE
+rs73502335,IDP dMRI TBSS MD Superior longitudinal fasciculus L,0,OpenGWAS,FALSE
+rs113931022,ENSG00000136381,1.1289039792536e-308,OpenGWAS,FALSE
+rs113931022,Cigarettes smoked per day,1.1995e-203,OpenGWAS,TRUE
+rs113931022,Cigarettes per Day,1.1995e-203,OpenGWAS,TRUE
+rs113931022,Lung cancer,3.37598e-100,OpenGWAS,FALSE
+rs113931022,ENSG00000041357,5.34564e-90,OpenGWAS,FALSE
+rs113931022,Number of cigarettes previously smoked daily,2.80027e-89,OpenGWAS,TRUE
+rs113931022,Pack years adult smoking as proportion of life span exposed to smoking,7.50067e-88,OpenGWAS,TRUE
+rs113931022,Pack years adult smoking as proportion of life span exposed to smoking PREVIEW ONLY,1.83231e-75,OpenGWAS,TRUE
+rs113931022,Number of cigarettes previously smoked daily,5.4853e-75,OpenGWAS,TRUE
+rs113931022,Lung cancer in ever smokers,6.74062e-75,OpenGWAS,TRUE
+rs113931022,Pack years of smoking,4.10015e-73,OpenGWAS,TRUE
+rs113931022,Pack years of smoking PREVIEW ONLY,1.01859e-64,OpenGWAS,TRUE
+rs113931022,Lung adenocarcinoma,8.39847e-48,OpenGWAS,FALSE
+rs73502335,ENSG00000168071,6.4759e-42,OpenGWAS,FALSE
+rs113931022,Number of cigarettes currently smoked daily (current cigarette smokers),4.90004e-40,OpenGWAS,TRUE
+rs73502335,ENSG00000236935,3.79577e-39,OpenGWAS,FALSE
+rs113931022,Squamous cell lung carcinoma,1.31462e-38,OpenGWAS,FALSE
+rs113931022,Chronic obstructive pulmonary disease,5.43751e-37,OpenGWAS,FALSE
+rs113931022,"Light smokers, at least 100 smokes in lifetime",3.50026e-36,OpenGWAS,TRUE
+rs73502335,ENSG00000231680,4.65908e-34,OpenGWAS,FALSE
+rs113931022,Parental longevity (father's attained age),1.69981e-31,OpenGWAS,FALSE
+rs73502335,triglycerides,4.40048e-31,OpenGWAS,TRUE
+rs113931022,Difficulty not smoking for 1 day,9.60064e-30,OpenGWAS,TRUE
+rs113931022,Light smokers  at least 100 smokes in lifetime,4.44222e-29,OpenGWAS,TRUE
+rs73502335,Serum uric acid levels,1.29987e-28,OpenGWAS,FALSE
+rs113931022,Other chronic obstructive pulmonary disease (J10_COPDNAS_INCLAVO),4.0281e-28,OpenGWAS,FALSE
+rs113931022,Number of cigarettes currently smoked daily (current cigarette smokers),5.65718e-28,OpenGWAS,TRUE
+rs113931022,COPD (mode),2.00586e-27,OpenGWAS,FALSE
+rs73502335,Uric acid,4.60151e-27,OpenGWAS,FALSE
+rs113931022,COPD,2.13796e-26,OpenGWAS,FALSE
+rs113931022,Cotinine and 3'-hydroxycotinine levels in current smokers,2.32006e-26,OpenGWAS,TRUE
+rs113931022,Other chronic obstructive pulmonary disease (J10_COPDNAS),2.47172e-26,OpenGWAS,FALSE
+rs113931022,"Parental longevity (combined parental attained age, Martingale residuals)",4.00037e-26,OpenGWAS,FALSE
+rs113931022,ENSG00000103811,8.10588e-26,OpenGWAS,FALSE
+rs113931022,"COPD, hospital admissions",1.48184e-25,OpenGWAS,FALSE
+rs113931022,Cigarettes smoked per day,1.7398e-25,OpenGWAS,TRUE
+rs113931022,Cotinine levels in current smokers,2.08978e-25,OpenGWAS,TRUE
+rs73502335,ENSG00000162302,2.19028e-25,OpenGWAS,FALSE
+rs73502335,Triglyceride levels (UKB data field 30870),8.26038e-25,OpenGWAS,TRUE
+rs113931022,Any parental history of lung cancer (Firth correction),8.2966e-25,OpenGWAS,FALSE
+rs113931022,Any parental history of lung cancer (SPA correction),8.30998e-25,OpenGWAS,FALSE
+rs113931022,Difficulty not smoking for 1 day,4.02254e-24,OpenGWAS,TRUE
+rs73502335,HDL cholesterol,2.39994e-23,OpenGWAS,TRUE
+rs73502335,Waist-hip ratio,1.69981e-22,OpenGWAS,TRUE
+rs73502335,High density lipoprotein cholesterol levels (UKB data field 30760),5.56545e-22,OpenGWAS,TRUE
+rs113931022,Early onset COPD,5.67937e-22,OpenGWAS,FALSE
+rs113931022,Father's age at death,2.90001e-20,OpenGWAS,FALSE
+rs113931022,FEV1/FVC < 0.7,2.19989e-19,OpenGWAS,FALSE
+rs113931022,Time from waking to first cigarette,2.29985e-19,OpenGWAS,TRUE
+rs113931022,Illnesses of father: Lung cancer,2.80027e-19,OpenGWAS,FALSE
+rs73502335,Triglycerides,5.60144e-19,OpenGWAS,TRUE
+rs113931022,Small cell lung carcinoma,5.93472e-19,OpenGWAS,FALSE
+rs113931022,FEV1,4.39238e-18,OpenGWAS,FALSE
+rs73502335,Triglycerides,6.73907e-18,OpenGWAS,TRUE
+rs113931022,Non-small cell lung cancer (all cancers excluded),1.01906e-17,OpenGWAS,FALSE
+rs10770882,ENSG00000111728,1.06955e-17,OpenGWAS,FALSE
+rs113931022,Non-small cell lung cancer,1.95704e-17,OpenGWAS,FALSE
+rs113931022,Lung cancer,4.87192e-17,OpenGWAS,FALSE
+rs73502335,Urate levels (UKB data field 30880),7.63308e-17,OpenGWAS,FALSE
+rs113931022,Malignant neoplasm of bronchus and lung (all cancers excluded),3.58592e-16,OpenGWAS,FALSE
+rs113931022,Malignant neoplasm of bronchus and lung,4.27563e-16,OpenGWAS,FALSE
+rs113931022,Illnesses of father: Chronic bronchitis/emphysema,4.60045e-16,OpenGWAS,FALSE
+rs113931022,Time from waking to first cigarette,5.02111e-16,OpenGWAS,TRUE
+rs113931022,Forced expiratory volume in 1-second (FEV1)  predicted percentage,7.59801e-16,OpenGWAS,FALSE
+rs73502335,Triglycerides,8.61787e-16,OpenGWAS,TRUE
+rs73502335,Urate,8.80035e-16,OpenGWAS,FALSE
+rs113931022,"Forced expiratory volume in 1-second (FEV1), predicted percentage",1.50003e-15,OpenGWAS,FALSE
+rs113931022,Chronic bronchitis,2.00817e-15,OpenGWAS,FALSE
+rs73502335,ENSG00000173264,2.92213e-15,OpenGWAS,FALSE
+rs73502335,HDL cholesterol,3.12752e-14,OpenGWAS,TRUE
+rs73502335,Urate,8.6856e-14,OpenGWAS,FALSE
+rs73502335,Mean spheric corpuscular volume,9.3994e-14,OpenGWAS,FALSE
+rs113931022,Parental longevity (father's age at death),1.39991e-13,OpenGWAS,FALSE
+rs73502335,HDL cholesterol,2.32541e-13,OpenGWAS,TRUE
+rs73502335,apolipoprotein A-I,5.30029e-13,OpenGWAS,TRUE
+rs113931022,Illnesses of father: Lung cancer,6.13338e-13,OpenGWAS,FALSE
+rs73502335,Mean sphered cell volume,1.59993e-12,OpenGWAS,FALSE
+rs73502335,Urate,1.96653e-12,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in very small VLDL,1.99986e-12,OpenGWAS,TRUE
+rs113931022,Illnesses of mother: Chronic bronchitis/emphysema,1.99986e-12,OpenGWAS,FALSE
+rs113931022,Malignant neoplasm of respiratory system and intrathoracic organs (all cancers excluded),2.88071e-12,OpenGWAS,FALSE
+rs113931022,Malignant neoplasm of respiratory system and intrathoracic organs,3.85301e-12,OpenGWAS,FALSE
+rs113931022,Illnesses of mother: Lung cancer,5.10035e-12,OpenGWAS,FALSE
+rs73502335,Apolipoprotein A levels (UKB data field 30630),5.79963e-12,OpenGWAS,TRUE
+rs113931022,"Forced Expiratory Volume (FEV1), adjusted for sex",7.10068e-12,OpenGWAS,FALSE
+rs73502335,Cholesteryl esters to total lipids ratio in very small VLDL,9.20026e-12,OpenGWAS,TRUE
+rs113931022,Illnesses of siblings: Chronic bronchitis/emphysema,9.8992e-12,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in very small VLDL,1.20005e-11,OpenGWAS,TRUE
+rs113931022,Parental longevity (combined parental age at death),1.9002e-11,OpenGWAS,FALSE
+rs73502335,Cholesteryl esters to total lipids ratio in medium VLDL,1.9002e-11,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in very small VLDL,1.99986e-11,OpenGWAS,TRUE
+rs73502335,Cholesterol to total lipids ratio in large HDL,2.29985e-11,OpenGWAS,TRUE
+rs113931022,Father's age at death,2.37356e-11,OpenGWAS,FALSE
+rs113931022,Cigarettes per day,2.49977e-11,OpenGWAS,TRUE
+rs73502335,Cholesteryl esters to total lipids ratio in large HDL,2.80027e-11,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in small VLDL,2.80027e-11,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in large LDL,2.90001e-11,OpenGWAS,TRUE
+rs113931022,Forced expiratory volume in 1-second (FEV1)  Best measure,3.49462e-11,OpenGWAS,FALSE
+rs73502335,Phospholipids to total lipids ratio in small VLDL,4.49987e-11,OpenGWAS,TRUE
+rs73502335,ENSG00000254614,4.83281e-11,OpenGWAS,FALSE
+rs113931022,Illnesses of father: Chronic bronchitis/emphysema,5.10387e-11,OpenGWAS,FALSE
+rs113931022,Lung function (FVC),5.27959e-11,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in medium VLDL,5.50047e-11,OpenGWAS,TRUE
+rs73502335,Cholesteryl esters to total lipids ratio in medium VLDL,6.4003e-11,OpenGWAS,TRUE
+rs73502335,Cholesterol to total lipids ratio in large HDL,7.39946e-11,OpenGWAS,TRUE
+rs182677822,Mean corpuscular volume (UKB data field 30040),7.51969e-11,OpenGWAS,FALSE
+rs73502335,Cholesteryl esters to total lipids ratio in large HDL,8.19974e-11,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in very large HDL,8.60003e-11,OpenGWAS,TRUE
+rs73502335,Cholesteryl esters to total lipids ratio in very small VLDL,8.60003e-11,OpenGWAS,TRUE
+rs113931022,Lung cancer,8.80035e-11,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in very small VLDL,1e-10,OpenGWAS,TRUE
+rs113931022,Chronic obstructive pulmonary disease,1.21812e-10,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in medium VLDL,1.7e-10,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in small VLDL,1.7e-10,OpenGWAS,TRUE
+rs113931022,Father still alive,2.19999e-10,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in medium VLDL,2.30001e-10,OpenGWAS,TRUE
+rs73502335,Phospholipids to total lipids ratio in small VLDL,2.90001e-10,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in large LDL,2.99999e-10,OpenGWAS,TRUE
+rs73502335,Low density lipoprotein cholesterol levels,3.2e-10,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in large HDL,3.2e-10,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in IDL,3.40001e-10,OpenGWAS,TRUE
+rs113931022,Lung cancer,3.89996e-10,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in very large HDL,4.30002e-10,OpenGWAS,TRUE
+rs73502335,Glycated haemoglobin HbA1c levels (UKB data field 30750),4.96604e-10,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in medium VLDL,5.19996e-10,OpenGWAS,TRUE
+rs113931022,Forced expiratory volume in 1-second (FEV1),5.99998e-10,OpenGWAS,FALSE
+rs113931022,Forced expiratory volume in 1-second (FEV1),6.01451e-10,OpenGWAS,FALSE
+rs113931022,Lung function (FVC),8.19993e-10,OpenGWAS,FALSE
+rs113931022,Abnormal findings on diagnostic imaging of lung,8.32109e-10,OpenGWAS,FALSE
+rs73502335,HDL cholesterol,8.69801e-10,OpenGWAS,TRUE
+rs113931022,Lung function (FEV1/FVC),1e-09,OpenGWAS,FALSE
+rs73502335,Glycated haemoglobin,1.02249e-09,OpenGWAS,FALSE
+rs113931022,Smoking behaviour (cigarettes smoked per day),1.05e-09,OpenGWAS,TRUE
+rs113931022,Chronic obstructive pulmonary disease,1.06417e-09,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in large HDL,1.2e-09,OpenGWAS,TRUE
+rs113931022,Chronic lower respiratory diseases,1.33999e-09,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in small HDL,1.40001e-09,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in small VLDL,1.40001e-09,OpenGWAS,TRUE
+rs113931022,Father still alive,1.69973e-09,OpenGWAS,FALSE
+rs73502335,Cardiovascular disease,1.79999e-09,OpenGWAS,TRUE
+rs182677822,Mean corpuscular volume,1.84999e-09,OpenGWAS,FALSE
+rs73502335,Cholesteryl esters in very large HDL,2.1e-09,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in small LDL,2.39999e-09,OpenGWAS,TRUE
+rs73502335,Ratio of triglycerides to phosphoglycerides,2.69998e-09,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in small VLDL,2.69998e-09,OpenGWAS,TRUE
+rs73502335,Cholesteryl esters in large HDL,2.80001e-09,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in medium VLDL,2.90001e-09,OpenGWAS,TRUE
+rs73502335,Free cholesterol to total lipids ratio in medium VLDL,2.90001e-09,OpenGWAS,TRUE
+rs113931022,Parental longevity (both parents in top 10%),2.99999e-09,OpenGWAS,FALSE
+rs73502335,Cholesteryl ester levels in very large HDL,2.99999e-09,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in IDL,3.29997e-09,OpenGWAS,TRUE
+rs113931022,Illnesses of mother: Chronic bronchitis/emphysema,3.47272e-09,OpenGWAS,FALSE
+rs73502335,Cholesteryl ester levels in large HDL,3.59998e-09,OpenGWAS,TRUE
+rs73502335,Red blood cell erythrocyte count (UKB data field 30010),4.02078e-09,OpenGWAS,FALSE
+rs73502335,Cholesterol in large HDL,4.30002e-09,OpenGWAS,TRUE
+rs113931022,Mean corpuscular volume (UKB data field 30040),4.66219e-09,OpenGWAS,FALSE
+rs73502335,Cholesterol in very large HDL,5.1e-09,OpenGWAS,TRUE
+rs73502335,Mean sphered cell volume,5.10035e-09,OpenGWAS,FALSE
+rs73502335,Cholesterol levels in large HDL,5.80003e-09,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in small HDL,5.80003e-09,OpenGWAS,TRUE
+rs113931022,3mm weak meridian (left),5.89997e-09,OpenGWAS,FALSE
+rs113931022,"Forced expiratory volume in 1-second (FEV1), Best measure",6.59994e-09,OpenGWAS,FALSE
+rs73502335,Cholesterol levels in very large HDL,7.00003e-09,OpenGWAS,TRUE
+rs73502335,Ratio of triglycerides to phosphoglycerides,7.10003e-09,OpenGWAS,TRUE
+rs182677822,Mean corpuscular hemoglobin,7.19996e-09,OpenGWAS,FALSE
+rs182677822,Mean corpuscular hemoglobin,8.19993e-09,OpenGWAS,FALSE
+rs73502335,Free cholesterol to total lipids ratio in medium LDL,8.30004e-09,OpenGWAS,TRUE
+rs73502335,Triglyceride levels in small HDL,8.40001e-09,OpenGWAS,TRUE
+rs73502335,Red blood cell count,8.51001e-09,OpenGWAS,FALSE
+rs73502335,Cardiovascular disease,8.60003e-09,OpenGWAS,TRUE
+rs73502335,Medication for cholesterol  blood pressure  diabetes  or take exogenous hormones: Cholesterol lowering medication,1.00141e-08,OpenGWAS,TRUE
+rs73502335,Mean corpuscular volume (UKB data field 30040),1.00182e-08,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in small LDL,1.09999e-08,OpenGWAS,TRUE
+rs73502335,Cholesterol to total lipids ratio in small VLDL,1.2e-08,OpenGWAS,TRUE
+rs73502335,Cholesterol to total lipids ratio in small VLDL,1.2e-08,OpenGWAS,TRUE
+rs73502335,Apoliprotein A,1.26279e-08,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in medium HDL,1.29999e-08,OpenGWAS,TRUE
+rs113931022,Facial ageing,1.29999e-08,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in large LDL,1.6e-08,OpenGWAS,TRUE
+rs73502335,Triglycerides to total lipids ratio in medium HDL,1.7e-08,OpenGWAS,TRUE
+rs113931022,3mm weak meridian (right),1.79999e-08,OpenGWAS,FALSE
+rs73502335,Cholesterol to total lipids ratio in medium HDL,1.89998e-08,OpenGWAS,TRUE
+rs113931022,"Diseases of arteries, arterioles and capillaries (FINNGEN)",2.133e-08,OpenGWAS,FALSE
+rs73502335,systolic blood pressure,2.15601e-08,OpenGWAS,TRUE
+rs73502335,Ratio of monounsaturated fatty acids to total fatty acids,2.30001e-08,OpenGWAS,FALSE
+rs73502335,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones: Cholesterol lowering medication",2.59998e-08,OpenGWAS,TRUE
+rs113931022,Parental longevity (father's age at death),2.69998e-08,OpenGWAS,FALSE
+rs113931022,Father's age at death,2.69998e-08,OpenGWAS,FALSE
+rs113931022,Later onset COPD,2.82001e-08,OpenGWAS,FALSE
+rs73502335,diastolic blood pressure,2.89101e-08,OpenGWAS,TRUE
+rs73502335,Total lipids in very large HDL,2.90001e-08,OpenGWAS,TRUE
+rs113931022,Poultry intake,2.90001e-08,OpenGWAS,FALSE
+rs113931022,Lung function (FEV1/FVC),3.27997e-08,OpenGWAS,FALSE
+rs113931022,Ever stopped smoking for 6+ months,3.40001e-08,OpenGWAS,TRUE
+rs182677822,Mean corpuscular hemoglobin,3.51901e-08,OpenGWAS,FALSE
+rs182677822,Mean corpuscular haemoglobin,3.52152e-08,OpenGWAS,FALSE
+rs73502335,Free cholesterol to total lipids ratio in medium LDL,3.59998e-08,OpenGWAS,TRUE
+rs73502335,Apoliprotein A,3.67477e-08,OpenGWAS,FALSE
+rs73502335,Triglycerides to total lipids ratio in medium HDL,3.69999e-08,OpenGWAS,TRUE
+rs73502335,Triglycerides in small HDL,3.79997e-08,OpenGWAS,TRUE
+rs182677822,Mean corpuscular volume,4e-08,OpenGWAS,FALSE
+rs73502335,Free cholesterol in large HDL,4.30002e-08,OpenGWAS,TRUE
+rs73502335,Phospholipids in very large HDL,4.70002e-08,OpenGWAS,TRUE
+rs7198936,ENSG00000257017,1.04713e-153,OpenGWAS,FALSE
+rs3826142,ENSG00000140943,9.39723e-118,OpenGWAS,FALSE
+rs3826142,ENSG00000103168,7.07783e-96,OpenGWAS,FALSE
+rs111341598,ENSG00000178952,1.62817e-82,OpenGWAS,FALSE
+rs3826142,ENSG00000103160,1.70805e-47,OpenGWAS,FALSE
+rs111341598,Mean platelet volume,1.10002e-43,OpenGWAS,FALSE
+rs2356338,ENSG00000104783,8.67361e-41,OpenGWAS,FALSE
+rs111341598,Platelet count,3.40017e-38,OpenGWAS,FALSE
+rs111341598,Mean platelet thrombocyte volume (UKB data field 30100),3.26437e-32,OpenGWAS,FALSE
+rs111341598,ENSG00000188322,6.07016e-31,OpenGWAS,FALSE
+rs111341598,Mean platelet volume,1.85012e-30,OpenGWAS,FALSE
+rs111341598,Platelet count (UKB data field 30080),6.11928e-29,OpenGWAS,FALSE
+rs7198936,ENSG00000140829,2.80414e-27,OpenGWAS,FALSE
+rs111341598,Platelet count,7.26942e-27,OpenGWAS,FALSE
+rs3826142,ENSG00000103154,9.17487e-27,OpenGWAS,FALSE
+rs3826142,ENSG00000154099,2.92012e-25,OpenGWAS,FALSE
+rs111341598,ENSG00000169682,5.88437e-24,OpenGWAS,FALSE
+rs111341598,Mean platelet volume,6.4998e-24,OpenGWAS,FALSE
+rs7198936,Low density lipoprotein cholesterol levels,2.09991e-23,OpenGWAS,TRUE
+rs7198936,Haptoglobin measurement,1.05803e-22,OpenGWAS,FALSE
+rs7198936,Haptoglobin measurement,1.9971e-22,OpenGWAS,FALSE
+rs111341598,ENSG00000184730,5.45004e-22,OpenGWAS,FALSE
+rs111341598,Platelet count,1e-21,OpenGWAS,FALSE
+rs111341598,Platelet count,8.14517e-20,OpenGWAS,FALSE
+rs111341598,Platelet count,8.18842e-20,OpenGWAS,FALSE
+rs111341598,Mean platelet (thrombocyte) volume,3.88329e-19,OpenGWAS,FALSE
+rs111341598,ENSG00000196502,5.29907e-15,OpenGWAS,FALSE
+rs111341598,Mean platelet volume,6.59326e-15,OpenGWAS,FALSE
+rs7198936,Glycoprotein acetyls,1.39991e-14,OpenGWAS,FALSE
+rs7198936,Glycoprotein acetyls levels,4.19952e-14,OpenGWAS,FALSE
+rs11204444,ENSG00000179253,5.06291e-12,OpenGWAS,FALSE
+rs7198936,Body mass index (UKB data field 21001),5.22276e-12,OpenGWAS,TRUE
+rs7198936,Body mass index (UKB data field 21001),6.5268e-12,OpenGWAS,TRUE
+rs3826142,ENSG00000260018,1.77542e-11,OpenGWAS,FALSE
+rs7198936,Body mass index,1e-10,OpenGWAS,TRUE
+rs7198936,Body mass index,1.2e-10,OpenGWAS,TRUE
+rs7198936,Arm fat percentage (right),8.99995e-10,OpenGWAS,FALSE
+rs7198936,Apolipoprotein B levels (UKB data field 30640),1.01735e-09,OpenGWAS,TRUE
+rs7198936,Arm fat percentage (left),1.7e-09,OpenGWAS,FALSE
+rs7198936,Hip circumference (UKB data field 49),3.22396e-09,OpenGWAS,FALSE
+rs7198936,Body fat percentage (UKB data field 23099),3.65923e-09,OpenGWAS,FALSE
+rs7198936,Cholesterol lowering medication use (UKB data field 6177_1) (SPA correction),3.70723e-09,OpenGWAS,TRUE
+rs7198936,Cholesterol lowering medication use (UKB data field 6177_1) (Firth correction),3.72092e-09,OpenGWAS,TRUE
+rs7198936,Apolipoprotein B levels,3.89996e-09,OpenGWAS,TRUE
+rs7198936,Total cholesterol levels,4.20001e-09,OpenGWAS,TRUE
+rs7198936,Body mass index (BMI),5.49997e-09,OpenGWAS,TRUE
+rs7198936,Arm fat mass (left),6.90001e-09,OpenGWAS,FALSE
+rs7198936,Arm fat mass (right),7.49998e-09,OpenGWAS,FALSE
+rs111341598,Thyroid problem (not cancer),8.50002e-09,OpenGWAS,FALSE
+rs7198936,Waist circumference (UKB data field 48),9.43474e-09,OpenGWAS,TRUE
+rs7198936,Cholesterol levels (UKB data field 30690),1.1306e-08,OpenGWAS,TRUE
+rs111341598,Plateletcrit,1.29999e-08,OpenGWAS,FALSE
+rs7198936,Total cholesterol levels,1.373e-08,OpenGWAS,TRUE
+rs7198936,IDP_T1_FIRST_right_caudate_volume,1.39894e-08,OpenGWAS,FALSE
+rs7198936,"Medication for cholesterol, blood pressure or diabetes: Cholesterol lowering medication",1.40001e-08,OpenGWAS,TRUE
+rs7198936,Medication use (HMG CoA reductase inhibitors),1.81101e-08,OpenGWAS,FALSE
+rs111341598,ENSG00000176476,2.0233e-08,OpenGWAS,FALSE
+rs111341598,Type 1 diabetes,2.69998e-08,OpenGWAS,TRUE
+rs7198936,Body mass index (BMI),2.69998e-08,OpenGWAS,TRUE
+rs7198936,Haptoglobin,3.63078e-08,OpenGWAS,FALSE
+rs7198936,Arm fat percentage (right),3.67799e-08,OpenGWAS,FALSE
+rs7198936,Direct low density lipoprotein levels (UKB data field 30780),4.27878e-08,OpenGWAS,FALSE
+rs7198936,Direct low density lipoprotein cholesterol levels,4.79999e-08,OpenGWAS,TRUE
+rs3130277,BMI-adjusted waist-hip ratio; Waist-to-hip ratio adjusted for BMI,2e-08,GWAS Catalog,TRUE
+rs147494818,body height; Height (baseline),5e-32,GWAS Catalog,FALSE
+rs73502335,BMI-adjusted waist-hip ratio; Waist-to-hip ratio adjusted for BMI,1e-26,GWAS Catalog,TRUE
+rs73502335,BMI-adjusted waist circumference; A body shape index,3e-14,GWAS Catalog,TRUE
+rs73502335,BMI-adjusted waist-hip ratio; Waist-hip index,5e-26,GWAS Catalog,TRUE
+rs73502335,BMI-adjusted hip circumference; Hip index,4e-12,GWAS Catalog,TRUE
+rs73502335,BMI-adjusted hip circumference; Hip circumference adjusted for BMI,2e-10,GWAS Catalog,TRUE
+rs73502335,BMI-adjusted waist circumference; Waist circumference adjusted for body mass index,1e-13,GWAS Catalog,TRUE
+rs182677822,"erythrocyte volume; mean corpuscular volume (MCV, mean, inv-norm transformed)",6e-29,GWAS Catalog,FALSE
+rs182677822,"erythrocyte volume; mean corpuscular volume (MCV, maximum, inv-norm transformed)",2e-24,GWAS Catalog,FALSE
+rs182677822,"mean corpuscular hemoglobin; mean corpuscular hemoglobin (MCH, maximum, inv-norm transformed)",9e-28,GWAS Catalog,FALSE
+rs182677822,"erythrocyte volume; mean corpuscular volume (MCV, mean, inv-norm transformed)",1e-16,GWAS Catalog,FALSE
+rs182677822,"erythrocyte volume; mean corpuscular volume (MCV, maximum, inv-norm transformed)",4e-15,GWAS Catalog,FALSE
+rs182677822,"mean corpuscular hemoglobin; mean corpuscular hemoglobin (MCH, maximum, inv-norm transformed)",6e-16,GWAS Catalog,FALSE
+rs113931022,lung carcinoma; Lung cancer in ever smokers,4e-08,GWAS Catalog,TRUE
+rs111341598,hematological measurement; Blood cell traits latent factor 5 (platelet),7e-11,GWAS Catalog,FALSE
+rs8141413,erectile dysfunction; Erectile dysfunction [ED] (PheCode 605),3e-18,GWAS Catalog,FALSE
+rs8141413,erectile dysfunction; Erectile dysfunction [ED] (PheCode 605),2e-16,GWAS Catalog,FALSE

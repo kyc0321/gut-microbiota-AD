@@ -6,3 +6,4 @@ results/
 figures/
 *.jwt
 .Renviron
+ext_data/

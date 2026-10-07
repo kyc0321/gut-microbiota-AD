@@ -1,0 +1,28 @@
+model,method,n_SNP,OR_periodontitis,OR_95CI,P,MV_Egger_intercept_P,conditional_F_periodontitis,conditional_F_risk_factors,risk_factor_estimates_MV_IVW (log scale)
+periodontitis + smoking,MV-IVW,88,0.997,0.925-1.074,0.93,,9.1,20.2,smoking:-0.553(P=2.9e-05)
+periodontitis + smoking,MV-Egger,88,1.035,0.943-1.136,0.47,0.19,9.1,20.2,
+periodontitis + smoking,MV-median,88,1.030,0.930-1.140,0.57,,9.1,20.2,
+periodontitis + T2D,MV-IVW,89,1.035,0.904-1.185,0.62,,4.4,64,T2D:0.013(P=0.46)
+periodontitis + T2D,MV-Egger,89,1.009,0.841-1.212,0.92,0.69,4.4,64,
+periodontitis + T2D,MV-median,89,1.005,0.863-1.171,0.95,,4.4,64,
+periodontitis + BMI,MV-IVW,442,0.942,0.863-1.028,0.18,,1.7,48.1,BMI:-0.120(P=0.00045)
+periodontitis + BMI,MV-Egger,442,0.944,0.836-1.065,0.35,0.97,1.7,48.1,
+periodontitis + BMI,MV-median,442,0.922,0.837-1.015,0.098,,1.7,48.1,
+periodontitis + LDL,MV-IVW,372,0.967,0.878-1.065,0.49,,3.5,198.5,LDL:0.073(P=0.076)
+periodontitis + LDL,MV-Egger,372,0.983,0.871-1.109,0.78,0.66,3.5,198.5,
+periodontitis + LDL,MV-median,372,1.001,0.919-1.090,0.99,,3.5,198.5,
+periodontitis + EA,MV-IVW,199,1.006,0.937-1.080,0.86,,4.9,35.8,EA:0.009(P=0.43)
+periodontitis + EA,MV-Egger,199,0.986,0.904-1.075,0.74,0.41,4.9,35.8,
+periodontitis + EA,MV-median,199,0.997,0.906-1.097,0.95,,4.9,35.8,
+periodontitis + T1D,MV-IVW,100,0.989,0.912-1.073,0.79,,9.0,113.2,T1D:-0.018(P=0.013)
+periodontitis + T1D,MV-Egger,100,0.977,0.882-1.082,0.66,0.7,9.0,113.2,
+periodontitis + T1D,MV-median,100,0.945,0.852-1.047,0.28,,9.0,113.2,
+periodontitis + all 6,MV-IVW,688,0.960,0.889-1.037,0.3,,1.5,3.2/10.8/18.9/27.4/5.9/6,smoking:-0.294(P=0.016); T2D:0.005(P=0.74); BMI:-0.097(P=0.013); LDL:-0.025(P=0.64); EA:0.001(P=0.92); T1D:0.006(P=0.61)
+periodontitis + all 6,MV-Egger,688,0.956,0.855-1.069,0.43,0.92,1.5,3.2/10.8/18.9/27.4/5.9/6,
+periodontitis + all 6,MV-median,688,0.932,0.856-1.014,0.1,,1.5,3.2/10.8/18.9/27.4/5.9/6,
+periodontitis + smoking,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),88,1.003,0.921-1.073,,,,,
+periodontitis + T2D,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),89,1.044,0.870-1.247,,,,,
+periodontitis + BMI,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),442,0.810,0.470-0.993,,,,,
+periodontitis + LDL,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),372,1.048,0.896-1.670,,,,,
+periodontitis + EA,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),199,1.017,0.946-1.101,,,,,
+periodontitis + T1D,Q-statistic minimisation (weak-instrument robust; 500 bootstrap CIs),100,1.013,0.946-1.101,,,,,

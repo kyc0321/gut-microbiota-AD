@@ -1,0 +1,19 @@
+analysis,instrument_set,method,n_SNP,beta,SE,OR_per_unit_log_odds,OR_95CI,OR_per_doubling_odds,OR_doubling_95CI,P
+Total effect,All instruments,Inverse variance weighted,47,-0.0201,0.0291,0.980,0.926-1.038,0.986,0.948-1.026,0.49
+Total effect,All instruments,Weighted median,47,-0.0015,0.0430,0.999,0.918-1.086,0.999,0.942-1.059,0.97
+Total effect,All instruments,MR Egger,47,0.1025,0.0589,1.108,0.987-1.243,1.074,0.991-1.163,0.089
+Total effect,All instruments,"MR-RAPS (overdispersed, Huber)",47,-0.0128,0.0325,0.987,0.926-1.052,0.991,0.948-1.036,0.69
+Total effect,Excluding 7 SNPs associated with AD risk factors,Inverse variance weighted,40,-0.0023,0.0315,0.998,0.938-1.061,0.998,0.957-1.042,0.94
+Total effect,Excluding 7 SNPs associated with AD risk factors,Weighted median,40,0.0108,0.0472,1.011,0.922-1.109,1.008,0.945-1.074,0.82
+Total effect,Excluding 7 SNPs associated with AD risk factors,MR Egger,40,0.0856,0.0600,1.089,0.968-1.225,1.061,0.978-1.151,0.16
+Total effect,Excluding 7 SNPs associated with AD risk factors,"MR-RAPS (overdispersed, Huber)",40,-0.0011,0.0340,0.999,0.935-1.068,0.999,0.954-1.046,0.97
+Total effect,Excluding 25 SNPs with any other GW-significant association,Inverse variance weighted,24,0.0167,0.0399,1.017,0.940-1.100,1.012,0.958-1.068,0.68
+Total effect,Excluding 25 SNPs with any other GW-significant association,Weighted median,24,0.0521,0.0591,1.054,0.938-1.183,1.037,0.957-1.123,0.38
+Total effect,Excluding 25 SNPs with any other GW-significant association,MR Egger,24,0.1190,0.0679,1.126,0.986-1.287,1.086,0.990-1.191,0.094
+Total effect,Excluding 25 SNPs with any other GW-significant association,"MR-RAPS (overdispersed, Huber)",24,0.0228,0.0419,1.023,0.942-1.111,1.016,0.960-1.075,0.59
+"MRlap (observed; standardized scale, exposure N=250,000)",All instruments present in both full GWAS,IVW,46,-0.0230,0.0228,NA,NA,NA,NA,0.31
+"MRlap (corrected; standardized scale, exposure N=250,000)",All instruments present in both full GWAS,"IVW, bias-corrected",46,-0.0394,0.0422,NA,NA,NA,NA,0.35
+"MRlap diagnostics (exposure N=250,000)",,P for observed vs corrected difference; cross-trait LDSC intercept (SE),,,,,,,,diff P=0.40; intercept=-0.0064 (0.005)
+"MRlap (observed; standardized scale, exposure N=473,681)",All instruments present in both full GWAS,IVW,46,-0.0316,0.0313,NA,NA,NA,NA,0.31
+"MRlap (corrected; standardized scale, exposure N=473,681)",All instruments present in both full GWAS,"IVW, bias-corrected",46,-0.0543,0.0582,NA,NA,NA,NA,0.35
+"MRlap diagnostics (exposure N=473,681)",,P for observed vs corrected difference; cross-trait LDSC intercept (SE),,,,,,,,diff P=0.41; intercept=-0.0064 (0.005)

@@ -1,0 +1,75 @@
+taxon_A_id,taxon_A,taxon_B_id,taxon_B,r
+ebi-a-GCST90016916,class Erysipelotrichia id.2147,ebi-a-GCST90016937,family Erysipelotrichaceae id.2149,1
+ebi-a-GCST90016927,family Bacteroidaceae id.917,ebi-a-GCST90016968,genus Bacteroides id.918,1
+ebi-a-GCST90016932,family Clostridiales vadin BB60 group id.11286,ebi-a-GCST90017076,unknown genus id.1000000073,1
+ebi-a-GCST90016954,unknown family id.1000005471,ebi-a-GCST90017078,unknown genus id.1000005472,1
+ebi-a-GCST90016955,unknown family id.1000006161,ebi-a-GCST90017080,unknown genus id.1000006162,1
+ebi-a-GCST90016929,family Bifidobacteriaceae id.433,ebi-a-GCST90017093,order Bifidobacteriales id.432,1
+ebi-a-GCST90016936,family Enterobacteriaceae id.3469,ebi-a-GCST90017098,order Enterobacteriales id.3468,1
+ebi-a-GCST90016916,class Erysipelotrichia id.2147,ebi-a-GCST90017099,order Erysipelotrichales id.2148,1
+ebi-a-GCST90016937,family Erysipelotrichaceae id.2149,ebi-a-GCST90017099,order Erysipelotrichales id.2148,1
+ebi-a-GCST90016954,unknown family id.1000005471,ebi-a-GCST90017103,order Mollicutes RF9 id.11579,1
+ebi-a-GCST90017078,unknown genus id.1000005472,ebi-a-GCST90017103,order Mollicutes RF9 id.11579,1
+ebi-a-GCST90016955,unknown family id.1000006161,ebi-a-GCST90017104,order NB1n id.3953,1
+ebi-a-GCST90017080,unknown genus id.1000006162,ebi-a-GCST90017104,order NB1n id.3953,1
+ebi-a-GCST90016944,family Pasteurellaceae id.3689,ebi-a-GCST90017105,order Pasteurellales id.3688,1
+ebi-a-GCST90016922,class Negativicutes id.2164,ebi-a-GCST90017107,order Selenomonadales id.2165,1
+ebi-a-GCST90016918,class Lentisphaeria id.2250,ebi-a-GCST90017109,order Victivallales id.2254,1
+ebi-a-GCST90016921,class Mollicutes id.3920,ebi-a-GCST90017117,phylum Tenericutes id.3919,1
+ebi-a-GCST90016953,unknown family id.1000001214,ebi-a-GCST90017077,unknown genus id.1000001215,1
+ebi-a-GCST90016911,class Bacteroidia id.912,ebi-a-GCST90017092,order Bacteroidales id.913,1
+ebi-a-GCST90016953,unknown family id.1000001214,ebi-a-GCST90017100,order Gastranaerophilales id.1591,1
+ebi-a-GCST90017077,unknown genus id.1000001215,ebi-a-GCST90017100,order Gastranaerophilales id.1591,1
+ebi-a-GCST90016914,class Coriobacteriia id.809,ebi-a-GCST90016933,family Coriobacteriaceae id.811,1
+ebi-a-GCST90016928,family Bacteroidales S24 7group id.11173,ebi-a-GCST90017079,unknown genus id.1000005479,1
+ebi-a-GCST90016914,class Coriobacteriia id.809,ebi-a-GCST90017096,order Coriobacteriales id.810,1
+ebi-a-GCST90016933,family Coriobacteriaceae id.811,ebi-a-GCST90017096,order Coriobacteriales id.810,1
+ebi-a-GCST90016920,class Methanobacteria id.119,ebi-a-GCST90017102,order Methanobacteriales id.120,1
+ebi-a-GCST90016923,class Verrucomicrobiae id.4029,ebi-a-GCST90017108,order Verrucomicrobiales id.4030,1
+ebi-a-GCST90016920,class Methanobacteria id.119,ebi-a-GCST90016942,family Methanobacteriaceae id.121,0.999998986183885
+ebi-a-GCST90016942,family Methanobacteriaceae id.121,ebi-a-GCST90017102,order Methanobacteriales id.120,0.999998986183885
+ebi-a-GCST90016923,class Verrucomicrobiae id.4029,ebi-a-GCST90016957,family Verrucomicrobiaceae id.4036,0.999994533500067
+ebi-a-GCST90016957,family Verrucomicrobiaceae id.4036,ebi-a-GCST90017108,order Verrucomicrobiales id.4030,0.999994533500067
+ebi-a-GCST90016925,family Actinomycetaceae id.421,ebi-a-GCST90017090,order Actinomycetales id.420,0.999928566615786
+ebi-a-GCST90016913,class Clostridia id.1859,ebi-a-GCST90017095,order Clostridiales id.1863,0.999887714531419
+ebi-a-GCST90016957,family Verrucomicrobiaceae id.4036,ebi-a-GCST90016961,genus Akkermansia id.4037,0.999861998025004
+ebi-a-GCST90016923,class Verrucomicrobiae id.4029,ebi-a-GCST90016961,genus Akkermansia id.4037,0.999847645065531
+ebi-a-GCST90016961,genus Akkermansia id.4037,ebi-a-GCST90017108,order Verrucomicrobiales id.4030,0.999847645065531
+ebi-a-GCST90016935,family Desulfovibrionaceae id.3169,ebi-a-GCST90017097,order Desulfovibrionales id.3156,0.99975958653123
+ebi-a-GCST90016919,class Melainabacteria id.1589,ebi-a-GCST90016953,unknown family id.1000001214,0.998559596748334
+ebi-a-GCST90016919,class Melainabacteria id.1589,ebi-a-GCST90017077,unknown genus id.1000001215,0.998559596748334
+ebi-a-GCST90016919,class Melainabacteria id.1589,ebi-a-GCST90017100,order Gastranaerophilales id.1591,0.998559596748334
+ebi-a-GCST90016911,class Bacteroidia id.912,ebi-a-GCST90017111,phylum Bacteroidetes id.905,0.998160124725936
+ebi-a-GCST90017092,order Bacteroidales id.913,ebi-a-GCST90017111,phylum Bacteroidetes id.905,0.998160124725936
+ebi-a-GCST90016915,class Deltaproteobacteria id.3087,ebi-a-GCST90017097,order Desulfovibrionales id.3156,0.99767156322282
+ebi-a-GCST90016915,class Deltaproteobacteria id.3087,ebi-a-GCST90016935,family Desulfovibrionaceae id.3169,0.997486435108799
+ebi-a-GCST90016918,class Lentisphaeria id.2250,ebi-a-GCST90017115,phylum Lentisphaerae id.2238,0.997132195519871
+ebi-a-GCST90017109,order Victivallales id.2254,ebi-a-GCST90017115,phylum Lentisphaerae id.2238,0.997132195519871
+ebi-a-GCST90016934,family Defluviitaleaceae id.1924,ebi-a-GCST90016986,genus Defluviitaleaceae UCG011 id.11287,0.996130309414166
+ebi-a-GCST90016949,family Rhodospirillaceae id.2717,ebi-a-GCST90017085,unknown genus id.2755,0.993861389087051
+ebi-a-GCST90016949,family Rhodospirillaceae id.2717,ebi-a-GCST90017106,order Rhodospirillales id.2667,0.992026096366278
+ebi-a-GCST90016912,class Betaproteobacteria id.2867,ebi-a-GCST90017094,order Burkholderiales id.2874,0.991492446402274
+ebi-a-GCST90016910,class Bacilli id.1673,ebi-a-GCST90017101,order Lactobacillales id.1800,0.990917631467747
+ebi-a-GCST90016929,family Bifidobacteriaceae id.433,ebi-a-GCST90016970,genus Bifidobacterium id.436,0.989141384157115
+ebi-a-GCST90016970,genus Bifidobacterium id.436,ebi-a-GCST90017093,order Bifidobacteriales id.432,0.989141384157115
+ebi-a-GCST90016941,family Lactobacillaceae id.1836,ebi-a-GCST90017030,genus Lactobacillus id.1837,0.988199890725216
+ebi-a-GCST90016931,family Clostridiaceae1 id.1869,ebi-a-GCST90016980,genus Clostridium sensustricto1 id.1873,0.985746376076371
+ebi-a-GCST90017085,unknown genus id.2755,ebi-a-GCST90017106,order Rhodospirillales id.2667,0.984918994832802
+ebi-a-GCST90016942,family Methanobacteriaceae id.121,ebi-a-GCST90017033,genus Methanobrevibacter id.123,0.978044289649447
+ebi-a-GCST90016920,class Methanobacteria id.119,ebi-a-GCST90017033,genus Methanobrevibacter id.123,0.978021827962743
+ebi-a-GCST90017033,genus Methanobrevibacter id.123,ebi-a-GCST90017102,order Methanobacteriales id.120,0.978021827962743
+ebi-a-GCST90016944,family Pasteurellaceae id.3689,ebi-a-GCST90017013,genus Haemophilus id.3698,0.977304289320653
+ebi-a-GCST90017013,genus Haemophilus id.3698,ebi-a-GCST90017105,order Pasteurellales id.3688,0.977304289320653
+ebi-a-GCST90016942,family Methanobacteriaceae id.121,ebi-a-GCST90017113,phylum Euryarchaeota id.55,0.971542506744345
+ebi-a-GCST90016920,class Methanobacteria id.119,ebi-a-GCST90017113,phylum Euryarchaeota id.55,0.97145109936822
+ebi-a-GCST90017102,order Methanobacteriales id.120,ebi-a-GCST90017113,phylum Euryarchaeota id.55,0.97145109936822
+ebi-a-GCST90016952,family Streptococcaceae id.1850,ebi-a-GCST90017070,genus Streptococcus id.1853,0.970562981437516
+ebi-a-GCST90016957,family Verrucomicrobiaceae id.4036,ebi-a-GCST90017118,phylum Verrucomicrobia id.3982,0.968271920561284
+ebi-a-GCST90016923,class Verrucomicrobiae id.4029,ebi-a-GCST90017118,phylum Verrucomicrobia id.3982,0.968150341421302
+ebi-a-GCST90017108,order Verrucomicrobiales id.4030,ebi-a-GCST90017118,phylum Verrucomicrobia id.3982,0.968150341421302
+ebi-a-GCST90016961,genus Akkermansia id.4037,ebi-a-GCST90017118,phylum Verrucomicrobia id.3982,0.967887410285312
+ebi-a-GCST90016926,family Alcaligenaceae id.2875,ebi-a-GCST90017094,order Burkholderiales id.2874,0.965230079832983
+ebi-a-GCST90017033,genus Methanobrevibacter id.123,ebi-a-GCST90017113,phylum Euryarchaeota id.55,0.959575505270377
+ebi-a-GCST90016925,family Actinomycetaceae id.421,ebi-a-GCST90016959,genus Actinomyces id.423,0.95248560453307
+ebi-a-GCST90016959,genus Actinomyces id.423,ebi-a-GCST90017090,order Actinomycetales id.420,0.951673216900556
+ebi-a-GCST90016912,class Betaproteobacteria id.2867,ebi-a-GCST90016926,family Alcaligenaceae id.2875,0.951545363331438

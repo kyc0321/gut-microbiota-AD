@@ -1,0 +1,5 @@
+method,M_eff,Bonferroni_equivalent_alpha
+Naive (all 201 taxa with usable data),201,0.000248756218905473
+Nyholt (2004),191.9,0.000260611660914091
+Li & Ji (2005),32.3,0.00154624427854982
+Galwey (2009),33.1,0.00151176841098858

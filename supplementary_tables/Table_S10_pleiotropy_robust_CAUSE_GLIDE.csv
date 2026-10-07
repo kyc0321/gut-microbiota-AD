@@ -1,0 +1,14 @@
+analysis,method,n_SNP,estimate_scale,estimate,SE,OR,OR_95CI,OR_per_doubling,P,notes
+Pleiotropy-robust (FinnGen exposure),IVW (reference),47,log OR,-0.0201,0.0291,0.980,0.926-1.038,0.986,0.49,TOST P (OR 0.91-1.10 per doubling) = 2.8 × 10⁻5; TOST P (0.95-1.05) = 0.04
+Pleiotropy-robust (FinnGen exposure),MR-cML-BIC,47,log OR,-0.0212,0.0297,0.979,0.924-1.038,0.985,0.48,TOST P (OR 0.91-1.10 per doubling) = 4.6 × 10⁻5; TOST P (0.95-1.05) = 0.05
+Pleiotropy-robust (FinnGen exposure),MR-cML-DP,47,log OR,-0.0222,0.0310,0.978,0.920-1.039,0.985,0.47,TOST P (OR 0.91-1.10 per doubling) = 9.9 × 10⁻5; TOST P (0.95-1.05) = 0.06
+Pleiotropy-robust (FinnGen exposure),"IVW, Steiger-filtered (47 SNPs)",47,log OR,-0.0201,0.0291,0.980,0.926-1.038,0.986,0.49,TOST P (OR 0.91-1.10 per doubling) = 2.8 × 10⁻5; TOST P (0.95-1.05) = 0.04
+Pleiotropy-robust (FinnGen exposure),MR-ConMix,47,log OR,-0.0508,,0.950,0.843-1.127,0.965,0.44,single confidence interval
+Pleiotropy-robust (FinnGen exposure),MR-Lasso,47,log OR,-0.0201,,0.980,0.926-1.038,0.986,0.49,valid SNPs (Lasso) = 47
+CAUSE,causal vs sharing model,"679 pruned / 1,179,519 merged",gamma (posterior median),-0.09,,,95% CrI -0.22 to 0.04,,0.45,"q (sharing) 0.05 (0-0.28); eta (sharing) -0.16 (-0.93 to 0.72); delta ELPD null-sharing 0.16 (SE 0.20), null-causal 0.03 (SE 1.34), sharing-causal -0.13 (SE 1.15)"
+"Replication, GLIDE exposure (12,289 cases / 22,326 controls)",Inverse variance weighted,15,log OR,-0.0238,0.0252,0.977,0.929-1.026,0.984,0.35,mean F 21.1; Cochran Q P = 0.21; Egger intercept P = 0.55
+"Replication, GLIDE exposure (12,289 cases / 22,326 controls)",MR Egger,15,log OR,0.0078,0.0569,1.008,0.901-1.127,1.005,0.89,
+"Replication, GLIDE exposure (12,289 cases / 22,326 controls)",Weighted median,15,log OR,-0.0097,0.0318,0.990,0.931-1.054,0.993,0.76,
+"Replication, GLIDE exposure (12,289 cases / 22,326 controls)",Weighted mode,15,log OR,-0.0049,0.0678,0.995,0.871-1.137,0.997,0.94,
+"Replication, GLIDE exposure (12,289 cases / 22,326 controls)",MR-RAPS,15,log OR,-0.0157,0.0239,0.984,0.939-1.032,0.989,0.51,
+Latent causal variable model,LCV,"1,156,445 HapMap3 (MHC, APOE excluded)",rho (genetic correlation),-0.076,0.090,,,,,GCP -0.05 (SE 0.27); not informative because rho ~ 0

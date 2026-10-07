@@ -1,83 +1,64 @@
-# Gut Microbiota–Alzheimer's Disease MR Screen
+# Periodontitis, gut microbiota and Alzheimer's disease: Mendelian randomization pipeline
 
-Analysis code for:
+Analysis code and result tables for a two-sample Mendelian randomization (MR) study of
+periodontitis, gut microbiota and Alzheimer's disease (AD), by Kuan-Yu Chu (manuscript in preparation).
 
-> Chu K-Y. Gut Microbial Taxa and Alzheimer's Disease Risk: A Genome-wide, Correction-Aware Two-Sample Mendelian Randomization Screen. *Brain Sciences* (submitted).
+Version 2.0.0 replaces the earlier pipeline in this repository (v1.0.0, v1.1.0, which accompanied
+an earlier, differently designed version of the manuscript). Those versions remain available in the
+git history and in their Zenodo records.
 
-## What this reproduces
+## What the pipeline does
 
-A systematic, pre-specified two-sample Mendelian randomization (MR) screen of
-all 211 gut microbial taxa profiled by the MiBioGen Consortium against
-Alzheimer's disease (AD) risk, using the Bellenguez et al. (2022) EADB GWAS.
-For each taxon: instrument extraction (P < 1×10⁻⁵, LD-clumped r² < 0.001 /
-10,000 kb), harmonization against the AD outcome, and causal-effect
-estimation via inverse-variance-weighted (IVW) regression, MR-Egger, and
-weighted median. Pleiotropy (MR-Egger intercept), heterogeneity (Cochran's
-Q), outlier bias (MR-PRESSO), and causal direction (Steiger filtering) are
-assessed for every nominally significant (P < 0.05) taxon. Benjamini-Hochberg
-FDR correction is applied across independent signal clusters, collapsing
-taxonomically-nested duplicate signals (e.g. a genus that is the sole member
-of its family) to a single test — see `03_fdr_correction.R`. Reverse MR
-(AD as exposure) is run for the single taxon with the smallest forward P-value.
-An exploratory multivariable MR (MVMR) analysis (`05_mvmr_exploratory.R`)
-additionally tests whether the lead signal is robust to joint modeling of
-the other independent nominal signal clusters; this returned conditional
-F-statistics well below the reliability threshold of 10 in both a 14-exposure
-and a reduced 3-exposure model, so no adjusted point estimate is reported —
-see the manuscript's Results and Discussion for the full interpretation.
+1. **Exposure instruments**: periodontitis (FinnGen R11 diagnosis-based GWAS, Salminen et al. 2025),
+   P < 1×10⁻⁵, LD-clumped (r² < 0.001, 10 Mb); genome-wide significant subset as sensitivity.
+2. **Step 1**: periodontitis → 211 MiBioGen gut taxa; genetic-profile correlation between taxa and
+   effective number of independent tests (M_eff; Li–Ji, Galwey).
+3. **Total effect**: periodontitis → AD (Bellenguez et al. 2022; Kunkle et al. 2019 as sensitivity outcome);
+   IVW, MR-Egger, weighted median/mode, MR-PRESSO, Steiger, leave-one-out; reverse MR.
+4. **Robustness**: instrument PheWAS/GWAS Catalog lookup and pleiotropy-based exclusions; MR-RAPS;
+   MRlap (winner's curse, weak instruments, sample overlap); MR-cML-BIC/DP; MR-ConMix; MR-Lasso;
+   Steiger filtering; equivalence tests; multivariable MR with six AD risk factors (MV-IVW/Egger/median,
+   conditional F, Q-statistic minimisation); CAUSE; colocalisation at genome-wide significant loci;
+   latent causal variable model; replication with GLIDE periodontitis; positive controls
+   (smoking initiation and type 2 diabetes → periodontitis).
 
-## Data sources
+## Repository layout
 
-All data are publicly available, summary-level GWAS statistics accessed via
-the [MRC IEU OpenGWAS platform](https://gwas.mrcieu.ac.uk):
-
-- **Exposure** — MiBioGen Consortium gut microbiota GWAS (Kurilshikov et al.
-  2021, *Nat Genet*), OpenGWAS accessions `ebi-a-GCST90016908` through
-  `ebi-a-GCST90017118` (211 taxa).
-- **Outcome** — Bellenguez et al. 2022 EADB Alzheimer's disease GWAS, OpenGWAS
-  accession `ebi-a-GCST90027158` (N = 487,511).
-
-No individual-level data are used or distributed by this code.
+```
+scripts/   R scripts, numbered in run order (see scripts/README.txt for inputs/outputs of each)
+supplementary_tables/   Supplementary Tables S1–S14 (CSV) produced by the scripts
+```
 
 ## Requirements
 
-- R ≥ 4.5
-- Packages: `TwoSampleMR` (0.7.4), `ieugwasr` (1.1.0), `MRPRESSO` (1.0),
-  `MVMR` (0.4), `dplyr`, `data.table`
-- An OpenGWAS API token (free, https://api.opengwas.io), set as the
-  environment variable `OPENGWAS_JWT` (e.g. in `~/.Renviron`). **Do not**
-  hard-code the token in any script — `00_setup.R` reads it from the
-  environment and will stop with an error if it is unset.
+- R ≥ 4.5 with TwoSampleMR 0.7.4, ieugwasr 1.1.0, MRPRESSO 1.0, MendelianRandomization, mr.raps 0.4.3,
+  MRlap 0.0.3.3, MRcML, MVMR, cause 1.2.0 (script 27 applies a small compatibility patch for loo ≥ 2.8),
+  coloc, data.table, dplyr, ggplot2, jsonlite.
+- PLINK 1.9 and the 1000 Genomes European reference panel (`EUR.bed/bim/fam`).
+- LD score regression European LD scores (`eur_w_ld_chr/`, with `w_hm3.snplist`).
+- An OpenGWAS access token in the environment variable `OPENGWAS_JWT` (free registration at
+  https://api.opengwas.io). **No token is stored in this repository.**
 
-## Running
+## Input data (all public; not redistributed here)
 
-```r
-source("run_all.R")
-```
+| Data | Source |
+|---|---|
+| Periodontitis, FinnGen (Salminen et al. 2025) | https://storage.googleapis.com/fg-publication-green-public/F_2023_026_20250625/summary_statistics_periodontitis.zip |
+| AD, Bellenguez et al. 2022 | GWAS Catalog GCST90027158 (harmonised file) / OpenGWAS ebi-a-GCST90027158 |
+| AD, Kunkle et al. 2019 | OpenGWAS ieu-b-2 |
+| Gut microbiota, MiBioGen (Kurilshikov et al. 2021) | OpenGWAS ebi-a-GCST90016908 … ebi-a-GCST90017118 |
+| Periodontitis, GLIDE (Shungin et al. 2019) | doi:10.5523/bris.2j2rqgzedxlq02oqbb4vmycnc2 (`EUR_perio_excl_HCHSSOL.txt`) |
+| Smoking initiation (Liu et al. 2019, GSCAN excl. 23andMe) | GWAS Catalog GCST007474 |
+| Type 2 diabetes (Xue et al. 2018) | GWAS Catalog GCST006867 |
+| Body mass index (Yengo et al. 2018) | GWAS Catalog GCST006900 |
+| LDL cholesterol (Graham et al. 2021, European) | GWAS Catalog GCST90239658 |
+| Years of education (UK Biobank; Loh et al. 2018) | GWAS Catalog GCST90029013 |
+| Type 1 diabetes (Chiou et al. 2021) | GWAS Catalog GCST90014023 |
+| 1000 Genomes EUR reference | http://fileserve.mrcieu.ac.uk/ld/1kg.v3.tgz |
 
-Runs `01_instruments_and_mr.R` → `02_sensitivity_diagnostics.R` →
-`03_fdr_correction.R` → `04_reverse_mr_lead_signal.R` → `05_mvmr_exploratory.R`
-in sequence. Step 1 and step 4 query the live OpenGWAS API and are the slow
-steps (several hours for the full 211-taxon panel on a typical connection);
-both cache per-taxon results incrementally under `data/`, so an interrupted
-run can simply be re-sourced and will skip already-completed taxa. Step 5
-queries the live API for the 14 taxa contributing to the MVMR models and
-typically completes in a few minutes.
+Expected local paths are given in `scripts/README.txt`. Run all scripts from the project root
+(the folder containing `data/`, `results/`, `scripts/`, `ext_data/`).
 
-## Outputs
+## Licence
 
-- `results/ivw_by_taxon_with_fdr.csv` — per-taxon IVW estimate and FDR
-  q-value; underlies manuscript Table 1 and Figure 1.
-- `results/sensitivity_summary.csv` — Egger intercept, Cochran's Q, Steiger
-  P, and MR-PRESSO global P for every nominally significant taxon; the lead
-  signal's row underlies manuscript Table 2.
-- `results/reverse_mr_lead_signal.csv` — reverse-MR estimates for the lead
-  signal, underlying the last two rows of Table 2.
-- `results/mvmr_exploratory_results.rds` — conditional F-statistics and
-  pleiotropy Q-tests for the 14-exposure and 3-exposure MVMR models
-  (no adjusted point estimates are reported; see above).
-
-## License
-
-MIT (code only; the GWAS summary statistics used are governed by their
-respective original data-use agreements — see the accessions above).
+MIT (see `LICENSE`). Third-party summary statistics remain under their original terms.
